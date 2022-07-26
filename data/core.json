@@ -72,16 +72,5 @@
         }
       }
     }
-  },
-  "$themes": [
-    {
-      "id": "88d0e3dda8181bdc3dbfd3687d97b0eb5d14a5a8",
-      "name": "light",
-      "selectedTokenSets": {
-        "core": "enabled",
-        "light": "enabled"
-      },
-      "$figmaStyleReferences": {}
-    }
-  ]
+  }
 }
