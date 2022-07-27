@@ -4,8 +4,8 @@
     "name": "light",
     "selectedTokenSets": {
       "palette.tokens": "source",
-      "color-semantics-light.tokens": "enabled",
-      "color-semantics-dark.tokens": "disabled"
+      "light/color-semantics.tokens": "enabled",
+      "dark/color-semantics.tokens": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -14,8 +14,8 @@
     "name": "dark",
     "selectedTokenSets": {
       "palette.tokens": "source",
-      "color-semantics-light.tokens": "disabled",
-      "color-semantics-dark.tokens": "enabled"
+      "light/color-semantics.tokens": "disabled",
+      "dark/color-semantics.tokens": "enabled"
     },
     "$figmaStyleReferences": {}
   }
