@@ -1,0 +1,28 @@
+{
+  "color": {
+    "canvas": {
+      "value": "{color.grey.0}",
+      "type": "color"
+    },
+    "canvas-text": {
+      "value": "{color.grey.1000}",
+      "type": "color"
+    },
+    "neutral": {
+      "50": {
+        "value": "{color.grey.50}",
+        "type": "color"
+      },
+      "100": {
+        "value": "{color.grey.100}",
+        "type": "color"
+      }
+    },
+    "cta": {
+      "50": {
+        "value": "{color.purple.50}",
+        "type": "color"
+      }
+    }
+  }
+}
