@@ -24,6 +24,16 @@
           "value": "{color.purple.50}",
           "type": "color"
         }
+      },
+      "surface": {
+        "0dp": {
+          "value": "rgba($color.grey.950, 0.1)",
+          "type": "color"
+        },
+        "2dp": {
+          "value": "rgba($color.grey.950, 0.5)",
+          "type": "color"
+        }
       }
     }
   }

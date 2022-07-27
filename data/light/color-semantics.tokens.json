@@ -20,6 +20,16 @@
           "value": "{color.purple.50}",
           "type": "color"
         }
+      },
+      "surface": {
+        "0dp": {
+          "value": "{color.grey.0}",
+          "type": "color"
+        },
+        "2dp": {
+          "value": "{color.grey.0}",
+          "type": "color"
+        }
       }
     }
   }
