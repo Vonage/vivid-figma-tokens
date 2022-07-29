@@ -284,36 +284,6 @@
           "value": "{color.red.950}",
           "type": "color"
         }
-      },
-      "surface": {
-        "0dp": {
-          "value": "{color.grey.0}",
-          "type": "color"
-        },
-        "2dp": {
-          "value": "{color.grey.0}",
-          "type": "color"
-        },
-        "4dp": {
-          "value": "{color.grey.0}",
-          "type": "color"
-        },
-        "8dp": {
-          "value": "{color.grey.0}",
-          "type": "color"
-        },
-        "12dp": {
-          "value": "{color.grey.0}",
-          "type": "color"
-        },
-        "16dp": {
-          "value": "{color.grey.0}",
-          "type": "color"
-        },
-        "24dp": {
-          "value": "{color.grey.0}",
-          "type": "color"
-        }
       }
     }
   }

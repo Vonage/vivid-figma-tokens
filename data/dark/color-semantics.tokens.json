@@ -264,36 +264,6 @@
           "value": "{color.green.50}",
           "type": "color"
         }
-      },
-      "surface": {
-        "0dp": {
-          "value": "{color.grey.950}",
-          "type": "color"
-        },
-        "2dp": {
-          "value": "linear-gradient(rgba({color.grey.0}, 0.06), rgba({color.grey.0}, 0.06)), {color.grey.950}",
-          "type": "color"
-        },
-        "4dp": {
-          "value": "linear-gradient(rgba({color.grey.0}, 0.08), rgba({color.grey.0}, 0.08)), {color.grey.950}",
-          "type": "color"
-        },
-        "8dp": {
-          "value": "linear-gradient(rgba({color.grey.0}, 0.10), rgba({color.grey.0}, 0.10)), {color.grey.950}",
-          "type": "color"
-        },
-        "12dp": {
-          "value": "linear-gradient(rgba({color.grey.0}, 0.12), rgba({color.grey.0}, 0.12)), {color.grey.950}",
-          "type": "color"
-        },
-        "16dp": {
-          "value": "linear-gradient(rgba({color.grey.0}, 0.14), rgba({color.grey.0}, 0.14)), {color.grey.950}",
-          "type": "color"
-        },
-        "24dp": {
-          "value": "linear-gradient(rgba({color.grey.0}, 0.16), rgba({color.grey.0}, 0.16)), {color.grey.950}",
-          "type": "color"
-        }
       }
     }
   }

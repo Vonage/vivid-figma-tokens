@@ -5,7 +5,9 @@
     "selectedTokenSets": {
       "palette.tokens": "source",
       "light/color-semantics.tokens": "enabled",
-      "dark/color-semantics.tokens": "disabled"
+      "dark/color-semantics.tokens": "disabled",
+      "light/elevation.tokens": "disabled",
+      "dark/elevation.tokens": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -15,7 +17,9 @@
     "selectedTokenSets": {
       "palette.tokens": "source",
       "light/color-semantics.tokens": "disabled",
-      "dark/color-semantics.tokens": "enabled"
+      "dark/color-semantics.tokens": "enabled",
+      "light/elevation.tokens": "disabled",
+      "dark/elevation.tokens": "disabled"
     },
     "$figmaStyleReferences": {}
   }
