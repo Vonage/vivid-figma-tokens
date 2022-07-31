@@ -35,7 +35,7 @@
   },
   "shadow": {
     "theme": {
-      "elevation": {
+      "surface": {
         "2dp": {
           "value": [
             {
