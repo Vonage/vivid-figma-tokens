@@ -148,15 +148,15 @@
     },
     "yellow": {
       "50": {
-        "value": "#fcf5a7",
+        "value": "#FDF5D4",
         "type": "color"
       },
       "100": {
-        "value": "#fde76d",
+        "value": "#FDEAA0",
         "type": "color"
       },
       "200": {
-        "value": "#ffc321",
+        "value": "#FACC4B",
         "type": "color"
       },
       "300": {
