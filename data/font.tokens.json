@@ -14,5 +14,20 @@
         "type": "fontFamilies"
       }
     }
+  },
+  "font": {
+    "alias": {
+      "body-1": {
+        "value": {
+          "font-weight": 400,
+          "font-stretch": "ultra-condensed",
+          "font-size": "1",
+          "line-height": 1.5,
+          "fontFamilies": "{font-family.alias.upright}",
+          "lineHeights": "1"
+        },
+        "type": "typography"
+      }
+    }
   }
 }
