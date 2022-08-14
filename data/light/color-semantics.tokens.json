@@ -1,6 +1,6 @@
 {
   "color": {
-    "theme": {
+    "alias": {
       "canvas": {
         "value": "{color.grey.0}",
         "type": "color"

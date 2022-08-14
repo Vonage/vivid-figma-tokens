@@ -1,6 +1,6 @@
 {
   "color": {
-    "theme": {
+    "alias": {
       "surface": {
         "0dp": {
           "value": "{color.grey.0}",
