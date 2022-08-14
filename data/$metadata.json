@@ -1,0 +1,10 @@
+{
+  "tokenSetOrder": [
+    "dark/color-semantics.tokens",
+    "dark/elevation.tokens",
+    "light/color-semantics.tokens",
+    "light/elevation.tokens",
+    "palette.tokens",
+    "font.tokens"
+  ]
+}

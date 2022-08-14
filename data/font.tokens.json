@@ -1,0 +1,16 @@
+{
+  "font-family": {
+    "upright": {
+      "value": "SpeziaComplete-Upright",
+      "type": "fontFamilies"
+    },
+    "italic": {
+      "value": "SpeziaComplete-Italic",
+      "type": "fontFamilies"
+    },
+    "monospace": {
+      "value": "SpeziaComplete-Monospace",
+      "type": "fontFamilies"
+    }
+  }
+}
