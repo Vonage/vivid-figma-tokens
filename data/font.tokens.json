@@ -1,6 +1,6 @@
 {
-  "alias": {
-    "font-family": {
+  "font-family": {
+    "alias": {
       "upright": {
         "value": "SpeziaComplete-Upright",
         "type": "fontFamilies"
