@@ -34,7 +34,7 @@
     }
   },
   "shadow": {
-    "theme": {
+    "alias": {
       "surface": {
         "2dp": {
           "value": [
