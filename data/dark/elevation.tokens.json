@@ -36,7 +36,7 @@
   "shadow": {
     "alias": {
       "surface": {
-        "2dp": {
+        "2_dp": {
           "value": [
             {
               "x": "0",
