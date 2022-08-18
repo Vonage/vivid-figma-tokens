@@ -15,5 +15,12 @@
         "type": "typography"
       }
     }
+  },
+  "spacing": {
+    "scale": {
+      "value": "1.25",
+      "type": "spacing",
+      "description": "typography scale major third"
+    }
   }
 }
