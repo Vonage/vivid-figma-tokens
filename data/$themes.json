@@ -8,7 +8,8 @@
       "dark/color-semantics.tokens": "enabled",
       "light/elevation.tokens": "disabled",
       "dark/elevation.tokens": "enabled",
-      "font.tokens": "enabled"
+      "font.tokens": "enabled",
+      "typography.tokens": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -21,7 +22,8 @@
       "dark/color-semantics.tokens": "disabled",
       "light/elevation.tokens": "enabled",
       "dark/elevation.tokens": "disabled",
-      "font.tokens": "enabled"
+      "font.tokens": "enabled",
+      "typography.tokens": "disabled"
     },
     "$figmaStyleReferences": {}
   }

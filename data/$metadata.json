@@ -5,6 +5,7 @@
     "light/color-semantics.tokens",
     "light/elevation.tokens",
     "palette.tokens",
-    "font.tokens"
+    "font.tokens",
+    "typography.tokens"
   ]
 }
