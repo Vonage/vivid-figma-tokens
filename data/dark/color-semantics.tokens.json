@@ -5,7 +5,7 @@
         "value": "{color.grey.1000}",
         "type": "color"
       },
-      "canvasText": {
+      "canvas-text": {
         "value": "{color.grey.0}",
         "type": "color"
       },
