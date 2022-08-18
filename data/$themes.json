@@ -9,7 +9,7 @@
       "light/elevation.tokens": "disabled",
       "dark/elevation.tokens": "enabled",
       "font.tokens": "enabled",
-      "typography.tokens": "disabled"
+      "typography.tokens": "enabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -23,7 +23,7 @@
       "light/elevation.tokens": "enabled",
       "dark/elevation.tokens": "disabled",
       "font.tokens": "enabled",
-      "typography.tokens": "disabled"
+      "typography.tokens": "enabled"
     },
     "$figmaStyleReferences": {}
   }
