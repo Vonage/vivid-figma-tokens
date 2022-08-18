@@ -1,15 +1,35 @@
 {
-  "body-1": {
-    "value": {
-      "fontFamily": "{font-family.alias.upright}",
-      "fontWeight": "400",
-      "lineHeight": "24",
-      "fontSize": "16",
-      "fontStretch": "200",
-      "letterSpacing": "0",
-      "textDecoration": "none",
-      "textTransform": "none"
-    },
-    "type": "typography"
+  "font-family": {
+    "alias": {
+      "upright": {
+        "value": "SpeziaComplete-Upright",
+        "type": "fontFamilies"
+      },
+      "italic": {
+        "value": "SpeziaComplete-Italic",
+        "type": "fontFamilies"
+      },
+      "monospace": {
+        "value": "SpeziaComplete-Monospace",
+        "type": "fontFamilies"
+      }
+    }
+  },
+  "font": {
+    "alias": {
+      "body-1": {
+        "value": {
+          "fontFamilies": "{font-family.alias.upright} system...",
+          "lineHeights": "1",
+          "fontFamily": "{font-family.alias.upright}",
+          "fontWeight": "400",
+          "lineHeight": "1.5",
+          "fontSize": "1",
+          "letterSpacing": "0",
+          "fontStretch": "ultra-condensed"
+        },
+        "type": "typography"
+      }
+    }
   }
 }
