@@ -8,19 +8,13 @@
           "fontFamily": "{font-family.alias.upright}",
           "fontWeight": "400",
           "lineHeight": "1.5",
-          "fontSize": "1",
+          "fontSize": "16px",
           "letterSpacing": "0",
-          "fontStretch": "ultra-condensed"
+          "fontStretch": "ultra-condensed",
+          "paragraphSpacing": "16px"
         },
         "type": "typography"
       }
-    }
-  },
-  "spacing": {
-    "scale": {
-      "value": "1.25",
-      "type": "spacing",
-      "description": "typography scale major third"
     }
   }
 }
