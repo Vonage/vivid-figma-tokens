@@ -6,6 +6,7 @@
     "light/elevation.tokens",
     "palette.tokens",
     "font.tokens",
-    "typography.tokens"
+    "typography/desktop.tokens",
+    "typography/mobile.tokens"
   ]
 }
