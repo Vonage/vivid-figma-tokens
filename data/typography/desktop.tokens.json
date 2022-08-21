@@ -216,48 +216,7 @@
                           "paragraphSpacing": "0"
                         },
                         "type": "typography"
-                    },
-
-
-
-                    "button-enlarge": {
-                        "value": {
-                          "fontFamilies": "{font-family.alias.upright} system",
-                          "fontWeight": "600",
-                          "lineHeight": "1.5",
-                          "fontSize": "1",
-                          "fontStretch": "normal",
-                          "letterSpacing": "0",
-                          "paragraphSpacing": "0"
-                        },
-                        "type": "typography"
-                    },
-
-                    "button": {
-                        "value": {
-                          "fontFamilies": "{font-family.alias.upright} system",
-                          "fontWeight": "600",
-                          "lineHeight": "20px",
-                          "fontSize": "14px",
-                          "fontStretch": "normal",
-                          "letterSpacing": "0",
-                          "paragraphSpacing": "0"
-                        },
-                        "type": "typography"
-                    },
-
-                    "button-dense": {
-                        "value": {
-                          "fontFamilies": "{font-family.alias.upright} system",
-                          "fontWeight": "600",
-                          "lineHeight": "16px",
-                          "fontSize": "12px",
-                          "fontStretch": "normal",
-                          "letterSpacing": "0",
-                          "paragraphSpacing": "0"
-                        },
-                        "type": "typography"
-                    },
+                    }
 
 
       }
