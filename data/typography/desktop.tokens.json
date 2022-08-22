@@ -61,7 +61,7 @@
         },
         "type": "typography"
       },
-      "body": {
+      "base-extended": {
         "value": {
           "fontFamily": "{font-family.alias.upright}",
           "fontWeight": "400",
@@ -71,7 +71,7 @@
         },
         "type": "typography"
       },
-      "body-bold": {
+      "base-extended-bold": {
         "value": {
           "fontFamily": "{font-family.alias.upright}",
           "fontWeight": "600",
@@ -81,7 +81,7 @@
         },
         "type": "typography"
       },
-      "body-code": {
+      "base-extended-code": {
         "value": {
           "fontFamily": "{font-family.alias.monospace}",
           "fontWeight": "400",
@@ -91,7 +91,7 @@
         },
         "type": "typography"
       },
-      "body-2": {
+      "base": {
         "value": {
           "fontFamily": "{font-family.alias.upright}",
           "fontWeight": "400",
@@ -101,7 +101,7 @@
         },
         "type": "typography"
       },
-      "body-2-bold": {
+      "base-bold": {
         "value": {
           "fontFamily": "{font-family.alias.upright}",
           "fontWeight": "600",
@@ -111,7 +111,7 @@
         },
         "type": "typography"
       },
-      "body-2-code": {
+      "base-code": {
         "value": {
           "fontFamily": "{font-family.alias.monospace}",
           "fontWeight": "400",
@@ -121,7 +121,7 @@
         },
         "type": "typography"
       },
-      "caption": {
+      "base-condensed": {
         "value": {
           "fontFamily": "{font-family.alias.upright}",
           "fontWeight": "400",
@@ -131,7 +131,7 @@
         },
         "type": "typography"
       },
-      "caption-bold": {
+      "base-condensed-bold": {
         "value": {
           "fontFamily": "{font-family.alias.upright}",
           "fontWeight": "600",
@@ -141,7 +141,7 @@
         },
         "type": "typography"
       },
-      "caption-code": {
+      "base-condensed-code": {
         "value": {
           "fontFamily": "{font-family.alias.monospace}",
           "fontWeight": "400",
