@@ -7,9 +7,7 @@
           "fontWeight": "500",
           "lineHeight": "88px",
           "fontSize": "66px",
-          "letterSpacing": "0",
-          "fontStretch": "expanded",
-          "paragraphSpacing": "0"
+          "fontStretch": "expanded"
         },
         "type": "typography"
       },
