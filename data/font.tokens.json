@@ -48,6 +48,22 @@
           "fontStretch": "{fontStretch.alias.condensed}"
         },
         "type": "typography"
+      },
+      "SpeziaNormalRegular": {
+        "value": {
+          "fontFamily": "{fontFamily.alias.upright}",
+          "fontWeight": "{fontWeight.alias.regular}",
+          "fontStretch": "{fontStretch.alias.ultraCondensed}"
+        },
+        "type": "typography"
+      },
+      "SpeziaSemiBold": {
+        "value": {
+          "fontFamily": "{fontFamily.alias.upright}",
+          "fontWeight": "{fontWeight.alias.semiBold}",
+          "fontStretch": "{fontStretch.alias.ultraCondensed}"
+        },
+        "type": "typography"
       }
     }
   }
