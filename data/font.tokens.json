@@ -64,6 +64,14 @@
           "fontStretch": "{fontStretch.alias.ultraCondensed}"
         },
         "type": "typography"
+      },
+      "SpeziaMonoRegular": {
+        "value": {
+          "fontFamily": "{fontFamily.alias.monospace}",
+          "fontWeight": "{fontWeight.alias.regular}",
+          "fontStretch": "{fontStretch.alias.ultraCondensed}"
+        },
+        "type": "typography"
       }
     }
   }
