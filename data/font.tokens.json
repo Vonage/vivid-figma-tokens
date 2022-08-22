@@ -1,5 +1,33 @@
 {
-  "font-family": {
+  "fontWeight": {
+    "alias": {
+      "semiBold": {
+        "value": "600",
+        "type": "other"
+      },
+      "medium": {
+        "value": "500",
+        "type": "other"
+      },
+      "regular": {
+        "value": "400",
+        "type": "other"
+      }
+    }
+  },
+  "fontStretch": {
+    "alias": {
+      "condensed": {
+        "value": "75",
+        "type": "other"
+      },
+      "ultraCondensed": {
+        "value": "50",
+        "type": "other"
+      }
+    }
+  },
+  "fontFamily": {
     "alias": {
       "upright": {
         "value": "SpeziaComplete-Upright",
@@ -12,6 +40,14 @@
       "monospace": {
         "value": "SpeziaComplete-Monospace",
         "type": "fontFamilies"
+      },
+      "SpeziaWideMedium": {
+        "value": {
+          "fontFamily": "{fontFamily.alias.upright}",
+          "fontWeight": "{fontWeight.alias.medium}",
+          "fontStretch": "{fontStretch.alias.condensed}"
+        },
+        "type": "typography"
       }
     }
   }
