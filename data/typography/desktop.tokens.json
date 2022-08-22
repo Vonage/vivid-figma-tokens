@@ -7,9 +7,7 @@
           "fontWeight": "500",
           "lineHeight": "88px",
           "fontSize": "66px",
-          "letterSpacing": "0",
-          "fontStretch": "expanded",
-          "paragraphSpacing": "0"
+          "fontStretch": "ultra-condensed"
         },
         "type": "typography"
       },
@@ -19,9 +17,7 @@
           "fontWeight": "500",
           "lineHeight": "68px",
           "fontSize": "52px",
-          "fontStretch": "expanded",
-          "letterSpacing": "0",
-          "paragraphSpacing": "0"
+          "fontStretch": "ultra-condensed"
         },
         "type": "typography"
       },
@@ -31,9 +27,7 @@
           "fontWeight": "500",
           "lineHeight": "52px",
           "fontSize": "40px",
-          "fontStretch": "expanded",
-          "letterSpacing": "0",
-          "paragraphSpacing": "0"
+          "fontStretch": "ultra-condensed"
         },
         "type": "typography"
       },
@@ -43,9 +37,7 @@
           "fontWeight": "500",
           "lineHeight": "44px",
           "fontSize": "32px",
-          "fontStretch": "expanded",
-          "letterSpacing": "0",
-          "paragraphSpacing": "0"
+          "fontStretch": "ultra-condensed"
         },
         "type": "typography"
       },
@@ -55,9 +47,7 @@
           "fontWeight": "500",
           "lineHeight": "36px",
           "fontSize": "26px",
-          "fontStretch": "expanded",
-          "letterSpacing": "0",
-          "paragraphSpacing": "0"
+          "fontStretch": "ultra-condensed"
         },
         "type": "typography"
       },
@@ -67,9 +57,7 @@
           "fontWeight": "500",
           "lineHeight": "28px",
           "fontSize": "20px",
-          "fontStretch": "expanded",
-          "letterSpacing": "0",
-          "paragraphSpacing": "0"
+          "fontStretch": "ultra-condensed"
         },
         "type": "typography"
       },
@@ -79,9 +67,7 @@
           "fontWeight": "400",
           "lineHeight": "1.5",
           "fontSize": "16px",
-          "fontStretch": "normal",
-          "letterSpacing": "0",
-          "paragraphSpacing": "0"
+          "fontStretch": "condensed"
         },
         "type": "typography"
       },
@@ -91,9 +77,7 @@
           "fontWeight": "600",
           "lineHeight": "1.5",
           "fontSize": "16px",
-          "fontStretch": "normal",
-          "letterSpacing": "0",
-          "paragraphSpacing": "0"
+          "fontStretch": "condensed"
         },
         "type": "typography"
       },
@@ -103,9 +87,7 @@
           "fontWeight": "400",
           "lineHeight": "1.5",
           "fontSize": "16px",
-          "fontStretch": "normal",
-          "letterSpacing": "0",
-          "paragraphSpacing": "0"
+          "fontStretch": "condensed"
         },
         "type": "typography"
       },
@@ -115,9 +97,7 @@
           "fontWeight": "400",
           "lineHeight": "20px",
           "fontSize": "14px",
-          "fontStretch": "normal",
-          "letterSpacing": "0",
-          "paragraphSpacing": "0"
+          "fontStretch": "condensed"
         },
         "type": "typography"
       },
@@ -127,9 +107,7 @@
           "fontWeight": "600",
           "lineHeight": "20px",
           "fontSize": "14px",
-          "fontStretch": "normal",
-          "letterSpacing": "0",
-          "paragraphSpacing": "0"
+          "fontStretch": "condensed"
         },
         "type": "typography"
       },
@@ -139,9 +117,7 @@
           "fontWeight": "400",
           "lineHeight": "20px",
           "fontSize": "14px",
-          "fontStretch": "normal",
-          "letterSpacing": "0",
-          "paragraphSpacing": "0"
+          "fontStretch": "condensed"
         },
         "type": "typography"
       },
@@ -151,9 +127,7 @@
           "fontWeight": "400",
           "lineHeight": "16px",
           "fontSize": "12px",
-          "fontStretch": "normal",
-          "letterSpacing": "0",
-          "paragraphSpacing": "0"
+          "fontStretch": "condensed"
         },
         "type": "typography"
       },
@@ -163,9 +137,7 @@
           "fontWeight": "600",
           "lineHeight": "16px",
           "fontSize": "12px",
-          "fontStretch": "normal",
-          "letterSpacing": "0",
-          "paragraphSpacing": "0"
+          "fontStretch": "condensed"
         },
         "type": "typography"
       },
@@ -175,9 +147,7 @@
           "fontWeight": "400",
           "lineHeight": "16px",
           "fontSize": "12px",
-          "fontStretch": "normal",
-          "letterSpacing": "0",
-          "paragraphSpacing": "0"
+          "fontStretch": "condensed"
         },
         "type": "typography"
       }
