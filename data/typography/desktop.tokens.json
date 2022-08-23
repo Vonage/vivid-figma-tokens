@@ -21,7 +21,7 @@
         },
         "type": "typography"
       },
-      "heading-1": {
+      "heading1": {
         "value": {
           "fontFamily": "{fontFamily.upright}",
           "fontWeight": "{fontWeight.medium}",
@@ -31,7 +31,7 @@
         },
         "type": "typography"
       },
-      "heading-2": {
+      "heading2": {
         "value": {
           "fontFamily": "{fontFamily.upright}",
           "fontWeight": "{fontWeight.medium}",
@@ -41,7 +41,7 @@
         },
         "type": "typography"
       },
-      "heading-3": {
+      "heading3": {
         "value": {
           "fontFamily": "{fontFamily.upright}",
           "fontWeight": "{fontWeight.medium}",
@@ -51,7 +51,7 @@
         },
         "type": "typography"
       },
-      "heading-4": {
+      "heading4": {
         "value": {
           "fontFamily": "{fontFamily.upright}",
           "fontWeight": "{fontWeight.medium}",
@@ -71,7 +71,7 @@
         },
         "type": "typography"
       },
-      "base-bold": {
+      "baseBold": {
         "value": {
           "fontFamily": "{fontFamily.upright}",
           "fontWeight": "{fontWeight.semiBold}",
@@ -81,7 +81,7 @@
         },
         "type": "typography"
       },
-      "base-code": {
+      "baseCode": {
         "value": {
           "fontFamily": "{fontFamily.monospace}",
           "fontWeight": "{fontWeight.medium}",
@@ -91,7 +91,7 @@
         },
         "type": "typography"
       },
-      "base-condensed": {
+      "baseCondensed": {
         "value": {
           "fontFamily": "{fontFamily.upright}",
           "fontWeight": "{fontWeight.medium}",
@@ -101,7 +101,7 @@
         },
         "type": "typography"
       },
-      "base-condensed-bold": {
+      "baseCondensedBold": {
         "value": {
           "fontFamily": "{fontFamily.upright}",
           "fontWeight": "{fontWeight.semiBold}",
@@ -111,7 +111,7 @@
         },
         "type": "typography"
       },
-      "base-condensed-code": {
+      "baseCondensedCode": {
         "value": {
           "fontFamily": "{fontFamily.monospace}",
           "fontWeight": "{fontWeight.medium}",
@@ -121,7 +121,7 @@
         },
         "type": "typography"
       },
-      "base-extended": {
+      "baseExtended": {
         "value": {
           "fontFamily": "{fontFamily.upright}",
           "fontWeight": "{fontWeight.medium}",
@@ -131,7 +131,7 @@
         },
         "type": "typography"
       },
-      "base-extended-bold": {
+      "baseExtendedBold": {
         "value": {
           "fontFamily": "{fontFamily.upright}",
           "fontWeight": "{fontWeight.semiBold}",
@@ -141,7 +141,7 @@
         },
         "type": "typography"
       },
-      "base-extended-code": {
+      "baseExtendedCode": {
         "value": {
           "fontFamily": "{fontFamily.monospace}",
           "fontWeight": "{fontWeight.medium}",
