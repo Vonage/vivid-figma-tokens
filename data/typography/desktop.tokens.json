@@ -1,12 +1,72 @@
 {
+  "size": {
+		"font": {
+			"headline": {
+				"value": "66"
+			},
+      "subtitle": {
+				"value": "52"
+			},
+      "heading1": {
+				"value": "40"
+			},
+      "heading2": {
+				"value": "32"
+			},
+      "heading3": {
+				"value": "26"
+			},
+      "heading4": {
+				"value": "20"
+			},
+      "base": {
+				"value": "14"
+			},
+      "baseCondensed": {
+				"value": "12"
+			},
+      "baseExtended": {
+				"value": "16"
+			}
+		},
+		"lineHeight": {
+			"headline": {
+				"value": "88"
+			},
+      "subtitle": {
+				"value": "68"
+			},
+      "heading1": {
+				"value": "52"
+			},
+      "heading2": {
+				"value": "44"
+			},
+      "heading3": {
+				"value": "36"
+			},
+      "heading4": {
+				"value": "28"
+			},
+      "base": {
+				"value": "20"
+			},
+      "baseCondensed": {
+				"value": "12"
+			},
+      "baseExtended": {
+				"value": "24"
+			}
+		}
+	},
   "font": {
     "alias": {
       "headline": {
         "value": {
           "fontFamily": "{fontFamily.upright}",
           "fontWeight": "{fontWeight.medium}",
-          "lineHeight": "88",
-          "fontSize": "66",
+					"lineHeight": "{size.lineHeight.headline}",
+					"fontSize": "{size.font.headline}",
           "fontStretch": "{fontStretch.condensed}"
         },
         "type": "typography"
@@ -15,8 +75,8 @@
         "value": {
           "fontFamily": "{fontFamily.upright}",
           "fontWeight": "{fontWeight.medium}",
-          "lineHeight": "68",
-          "fontSize": "52",
+          "lineHeight": "{size.lineHeight.subtitle}",
+          "fontSize": "{size.font.subtitle}",
           "fontStretch": "{fontStretch.condensed}"
         },
         "type": "typography"
@@ -25,8 +85,8 @@
         "value": {
           "fontFamily": "{fontFamily.upright}",
           "fontWeight": "{fontWeight.medium}",
-          "lineHeight": "52",
-          "fontSize": "40",
+          "lineHeight": "{size.lineHeight.heading1}",
+          "fontSize": "{size.font.heading1}",
           "fontStretch": "{fontStretch.condensed}"
         },
         "type": "typography"
@@ -35,8 +95,8 @@
         "value": {
           "fontFamily": "{fontFamily.upright}",
           "fontWeight": "{fontWeight.medium}",
-          "lineHeight": "44",
-          "fontSize": "32",
+          "lineHeight": "{size.lineHeight.heading2}",
+          "fontSize": "{size.font.heading2}",
           "fontStretch": "{fontStretch.condensed}"
         },
         "type": "typography"
@@ -45,8 +105,8 @@
         "value": {
           "fontFamily": "{fontFamily.upright}",
           "fontWeight": "{fontWeight.medium}",
-          "lineHeight": "36",
-          "fontSize": "26",
+          "lineHeight": "{size.lineHeight.heading3}",
+          "fontSize": "{size.font.heading3}",
           "fontStretch": "{fontStretch.condensed}"
         },
         "type": "typography"
@@ -55,8 +115,8 @@
         "value": {
           "fontFamily": "{fontFamily.upright}",
           "fontWeight": "{fontWeight.medium}",
-          "lineHeight": "28",
-          "fontSize": "20",
+          "lineHeight": "{size.lineHeight.heading4}",
+          "fontSize": "{size.font.heading4}",
           "fontStretch": "{fontStretch.condensed}"
         },
         "type": "typography"
@@ -64,9 +124,9 @@
       "base": {
         "value": {
           "fontFamily": "{fontFamily.upright}",
-          "fontWeight": "{fontWeight.medium}",
-          "lineHeight": "20",
-          "fontSize": "14",
+          "fontWeight": "{fontWeight.regular}",
+          "lineHeight": "{size.lineHeight.base}",
+					"fontSize": "{size.font.base}",
           "fontStretch": "{fontStretch.ultraCondensed}"
         },
         "type": "typography"
@@ -75,8 +135,8 @@
         "value": {
           "fontFamily": "{fontFamily.upright}",
           "fontWeight": "{fontWeight.semiBold}",
-          "lineHeight": "20",
-          "fontSize": "14",
+          "lineHeight": "{size.lineHeight.base}",
+					"fontSize": "{size.font.base}",
           "fontStretch": "{fontStretch.ultraCondensed}"
         },
         "type": "typography"
@@ -84,9 +144,9 @@
       "baseCode": {
         "value": {
           "fontFamily": "{fontFamily.monospace}",
-          "fontWeight": "{fontWeight.medium}",
-          "lineHeight": "20",
-          "fontSize": "14",
+          "fontWeight": "{fontWeight.regular}",
+          "lineHeight": "{size.lineHeight.base}",
+					"fontSize": "{size.font.base}",
           "fontStretch": "{fontStretch.ultraCondensed}"
         },
         "type": "typography"
@@ -94,9 +154,9 @@
       "baseCondensed": {
         "value": {
           "fontFamily": "{fontFamily.upright}",
-          "fontWeight": "{fontWeight.medium}",
-          "lineHeight": "16",
-          "fontSize": "12",
+          "fontWeight": "{fontWeight.regular}",
+					"lineHeight": "{size.lineHeight.baseCondensed}",
+					"fontSize": "{size.font.baseCondensed}",
           "fontStretch": "{fontStretch.ultraCondensed}"
         },
         "type": "typography"
@@ -105,8 +165,8 @@
         "value": {
           "fontFamily": "{fontFamily.upright}",
           "fontWeight": "{fontWeight.semiBold}",
-          "lineHeight": "16",
-          "fontSize": "12",
+					"lineHeight": "{size.lineHeight.baseCondensed}",
+					"fontSize": "{size.font.baseCondensed}",
           "fontStretch": "{fontStretch.ultraCondensed}"
         },
         "type": "typography"
@@ -114,9 +174,9 @@
       "baseCondensedCode": {
         "value": {
           "fontFamily": "{fontFamily.monospace}",
-          "fontWeight": "{fontWeight.medium}",
-          "lineHeight": "16",
-          "fontSize": "12",
+          "fontWeight": "{fontWeight.regular}",
+					"lineHeight": "{size.lineHeight.baseCondensed}",
+					"fontSize": "{size.font.baseCondensed}",
           "fontStretch": "{fontStretch.ultraCondensed}"
         },
         "type": "typography"
@@ -124,7 +184,7 @@
       "baseExtended": {
         "value": {
           "fontFamily": "{fontFamily.upright}",
-          "fontWeight": "{fontWeight.medium}",
+          "fontWeight": "{fontWeight.regular}",
           "lineHeight": "24",
           "fontSize": "16",
           "fontStretch": "{fontStretch.ultraCondensed}"
@@ -144,7 +204,7 @@
       "baseExtendedCode": {
         "value": {
           "fontFamily": "{fontFamily.monospace}",
-          "fontWeight": "{fontWeight.medium}",
+          "fontWeight": "{fontWeight.regular}",
           "lineHeight": "24",
           "fontSize": "16",
           "fontStretch": "{fontStretch.ultraCondensed}"
