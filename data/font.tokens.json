@@ -1,18 +1,36 @@
 {
-  "font-family": {
-    "alias": {
-      "upright": {
-        "value": "SpeziaComplete-Upright",
-        "type": "fontFamilies"
-      },
-      "italic": {
-        "value": "SpeziaComplete-Italic",
-        "type": "fontFamilies"
-      },
-      "monospace": {
-        "value": "SpeziaComplete-Monospace",
-        "type": "fontFamilies"
-      }
+  "fontFamily": {
+    "upright": {
+      "value": "SpeziaCompleteVariableUpright",
+      "type": "fontFamilies"
+    },
+    "monospace": {
+      "value": "SpeziaMonoCompleteVariable",
+      "type": "fontFamilies"
+    }
+  },
+  "fontWeight": {
+    "semiBold": {
+      "value": "600",
+      "type": "other"
+    },
+    "medium": {
+      "value": "500",
+      "type": "other"
+    },
+    "regular": {
+      "value": "400",
+      "type": "other"
+    }
+  },
+  "fontStretch": {
+    "condensed": {
+      "value": "75",
+      "type": "other"
+    },
+    "ultraCondensed": {
+      "value": "50",
+      "type": "other"
     }
   }
 }
