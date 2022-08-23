@@ -77,24 +77,24 @@
           "value": [
             {
               "x": "0",
-              "y": "2px",
-              "blur": "1px",
+              "y": "2",
+              "blur": "1",
               "spread": "0",
               "color": "rgba({color.grey.1000}, 0.05)",
               "type": "dropShadow"
             },
             {
               "x": "0",
-              "y": "1px",
-              "blur": "2px",
+              "y": "1",
+              "blur": "2",
               "spread": "0",
               "color": "rgba({color.grey.1000}, 0.05)",
               "type": "innerShadow"
             },
             {
               "x": "0",
-              "y": "1px",
-              "blur": "4px",
+              "y": "1",
+              "blur": "4",
               "spread": "0",
               "color": "rgba({color.grey.1000}, 0.01)",
               "type": "innerShadow"
