@@ -25,11 +25,11 @@
   },
   "fontStretch": {
     "condensed": {
-      "value": "75",
+      "value": "condensed",
       "type": "other"
     },
     "ultraCondensed": {
-      "value": "50",
+      "value": "ultraCondensed",
       "type": "other"
     }
   }
