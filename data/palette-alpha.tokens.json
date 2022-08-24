@@ -17,6 +17,10 @@
           "3": {
             "value": "rgba({color.grey.1000}, 0.2)",
             "type": "colorAlpha"
+          },
+          "4": {
+            "value": "rgba({color.grey.1000}, 0.25)",
+            "type": "colorAlpha"
           }
         },
         "dark": {
