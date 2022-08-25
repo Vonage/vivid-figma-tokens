@@ -96,7 +96,7 @@
 							"y": "1px",
 							"blur": "4px",
 							"spread": "0",
-							"color": "{color.alpha.light.0}",
+							"color": "{color.alpha.light.2}",
 							"type": "innerShadow"
 						}
 					],
