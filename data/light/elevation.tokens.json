@@ -34,19 +34,19 @@
 		},
     "alpha": {
       "01": {
-        "value": "{color.grey.1000}, {alphahex.01}",
+        "value": "{color.grey.1000}{alphahex.01}",
         "type": "colorAlpha"
       },
       "05": {
-        "value": "{color.grey.1000}, {alphahex.05}",
+        "value": "{color.grey.1000}{alphahex.05}",
         "type": "colorAlpha"
       },
       "10": {
-        "value": "{color.grey.1000}, {alphahex.10}",
+        "value": "{color.grey.1000}{alphahex.10}",
         "type": "colorAlpha"
       },
       "20": {
-        "value": "{color.grey.1000}, {alphahex.20}",
+        "value": "{color.grey.1000}{alphahex.20}",
         "type": "colorAlpha"
       }
     }
