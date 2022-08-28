@@ -33,10 +33,6 @@
 			}
 		},
     "alpha": {
-      "01": {
-        "value": "{color.grey.1000}{alphahex.01}",
-        "type": "colorAlpha"
-      },
       "05": {
         "value": "{color.grey.1000}{alphahex.05}",
         "type": "colorAlpha"
@@ -114,7 +110,7 @@
 							"y": "1px",
 							"blur": "4px",
 							"spread": "0",
-							"color": "{color.alpha.01}",
+							"color": "{color.alpha.10}",
 							"type": "innerShadow"
 						}
 					],

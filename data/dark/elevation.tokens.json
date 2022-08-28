@@ -32,32 +32,32 @@
 				}
 			}
 		},
-    "alpha": {
-      "06": {
-        "value": "{color.grey.0}{alphahex.06}",
-        "type": "color"
-      },
-      "08": {
-        "value": "{color.grey.0}{alphahex.08}",
-        "type": "color"
-      },
-      "10": {
-        "value": "{color.grey.0}{alphahex.10}",
-        "type": "color"
-      },
-      "12": {
-        "value": "{color.grey.0}{alphahex.12}",
-        "type": "color"
-      },
-      "14": {
-        "value": "{color.grey.0}{alphahex.14}",
-        "type": "color"
-      },
-      "16": {
-        "value": "{color.grey.0}{alphahex.16}",
-        "type": "color"
-      }
-    }
+		"alpha": {
+		  "06": {
+			"value": "{color.grey.0}{alphahex.06}",
+			"type": "color"
+		  },
+		  "08": {
+			"value": "{color.grey.0}{alphahex.08}",
+			"type": "color"
+		  },
+		  "10": {
+			"value": "{color.grey.0}{alphahex.10}",
+			"type": "color"
+		  },
+		  "12": {
+			"value": "{color.grey.0}{alphahex.12}",
+			"type": "color"
+		  },
+		  "14": {
+			"value": "{color.grey.0}{alphahex.14}",
+			"type": "color"
+		  },
+		  "16": {
+			"value": "{color.grey.0}{alphahex.16}",
+			"type": "color"
+		  }
+		}
 	},
 	"shadow": {
 		"alias": {
