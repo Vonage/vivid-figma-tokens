@@ -1,51 +1,43 @@
 {
     "alphahex": {
-      "01": {
-        "value": "01",
-        "type": "other"
-      },
-      "02": {
-        "value": "02",
-        "type": "other"
-      },
       "05": {
-        "value": "05",
+        "value": "0d",
         "type": "other"
       },
       "06": {
-        "value": "06",
+        "value": "0f",
         "type": "other"
       },
       "08": {
-        "value": "08",
-        "type": "other"
-      },
-      "10": {
-        "value": "10",
-        "type": "other"
-      },
-      "12": {
-        "value": "12",
-        "type": "other"
-      },
-      "14": {
         "value": "14",
         "type": "other"
       },
+      "10": {
+        "value": "1a",
+        "type": "other"
+      },
+      "12": {
+        "value": "1f",
+        "type": "other"
+      },
+      "14": {
+        "value": "24",
+        "type": "other"
+      },
       "16": {
-        "value": "16",
+        "value": "29",
         "type": "other"
       },
       "20": {
-        "value": "20",
+        "value": "33",
         "type": "other"
       },
       "25": {
-        "value": "25",
+        "value": "40",
         "type": "other"
       },
       "32": {
-        "value": "32",
+        "value": "52",
         "type": "other"
       }
     }
