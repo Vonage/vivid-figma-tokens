@@ -1,6 +1,9 @@
 {
   "color": {
     "alias": {
+      "scheme": {
+				"value": "dark"
+			},
       "canvas": {
         "value": "{color.grey.1000}",
         "type": "color"
