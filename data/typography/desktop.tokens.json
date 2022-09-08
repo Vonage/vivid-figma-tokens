@@ -9,7 +9,7 @@
     }
   },
 	
-  "body-2": {
+  "base": {
     "value": {
       "fontFamily": "Spezia",
       "fontWeight": "Regular",
@@ -21,7 +21,7 @@
     "type": "typography"
   },
 	
-  "body-2-code": {
+  "baseCode": {
     "value": {
       "fontFamily": "Spezia",
       "fontWeight": "SemiMono Regular",
@@ -33,19 +33,7 @@
     "type": "typography"
   },
 	
-  "body-2-link": {
-    "value": {
-      "fontFamily": "Spezia",
-      "fontWeight": "Regular",
-      "fontSize": "$size.font.base * 0.875",
-      "lineHeight": "$size.font.base * 1.25",
-      "letterSpacing": "",
-      "textDecoration": "underline"
-    },
-    "type": "typography"
-  },
-	
-  "body-2-bold": {
+  "baseBold": {
     "value": {
       "fontFamily": "Spezia",
       "fontWeight": "SemiBold",
@@ -57,7 +45,7 @@
     "type": "typography"
   },
 	
-  "body": {
+  "baseExtended": {
     "value": {
       "fontFamily": "Spezia",
       "fontWeight": "Regular",
@@ -69,7 +57,7 @@
     "type": "typography"
   },
 	
-  "body-code": {
+  "baseExtendedCode": {
     "value": {
       "fontFamily": "Spezia",
       "fontWeight": "SemiMono Regular",
@@ -81,7 +69,7 @@
     "type": "typography"
   },
 	
-  "body-bold": {
+  "baseExtendedBold": {
     "value": {
       "fontFamily": "Spezia",
       "fontWeight": "SemiBold",
@@ -92,18 +80,7 @@
     },
     "type": "typography"
   },
-	
-  "body-link": {
-    "value": {
-      "fontFamily": "Spezia",
-      "fontWeight": "Regular",
-      "fontSize": "$size.font.base * 1",
-      "lineHeight": "$size.font.base * 1.5",
-      "letterSpacing": "",
-      "textDecoration": "underline"
-    },
-    "type": "typography"
-  },
+
 	
   "headline": {
     "value": {
@@ -116,7 +93,7 @@
     "type": "typography"
   },
 	
-  "headline-2": {
+  "subtitle": {
     "value": {
       "lineHeight": "$size.font.base * 4.25",
       "fontSize": "$size.font.base * 3.25",
@@ -127,7 +104,7 @@
     "type": "typography"
   },
 	
-  "title": {
+  "heading1": {
     "value": {
       "lineHeight": "$size.font.base * 3.25",
       "fontSize": "$size.font.base * 2.5",
@@ -138,7 +115,7 @@
     "type": "typography"
   },
 	
-  "subtitle": {
+  "heading3": {
     "value": {
       "lineHeight": "$size.font.base * 2.25",
       "fontSize": "$size.font.base * 1.625",
@@ -149,7 +126,7 @@
     "type": "typography"
   },
 	
-  "title-2": {
+  "heading2": {
     "value": {
       "lineHeight": "$size.font.base * 2.75",
       "fontSize": "$size.font.base * 2",
@@ -160,7 +137,7 @@
     "type": "typography"
   },
 	
-  "subtitle-2": {
+  "heading4": {
     "value": {
       "lineHeight": "$size.font.base * 1.75",
       "fontSize": "$size.font.base * 1.25",
@@ -171,7 +148,7 @@
     "type": "typography"
   },
 	
-  "caption": {
+  "baseCondensed": {
     "value": {
       "lineHeight": "$size.font.base * 1",
       "fontSize": "$size.font.base * 0.75",
@@ -182,7 +159,7 @@
     "type": "typography"
   },
 	
-  "caption-code": {
+  "baseCondensedCode": {
     "value": {
       "lineHeight": "$size.font.base * 1",
       "fontSize": "$size.font.base * 0.75",
@@ -193,18 +170,7 @@
     "type": "typography"
   },
 	
-  "caption-link": {
-    "value": {
-      "lineHeight": "$size.font.base * 1",
-      "fontSize": "$size.font.base * 0.75",
-      "fontFamily": "Spezia",
-      "fontWeight": "Regular",
-      "textDecoration": "underline"
-    },
-    "type": "typography"
-  },
-	
-  "caption-bold": {
+  "baseCondensedBold": {
     "value": {
       "lineHeight": "$size.font.base * 1",
       "fontSize": "$size.font.base * 0.75",
