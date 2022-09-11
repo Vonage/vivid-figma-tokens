@@ -73,15 +73,6 @@
         },
         "type": "typography"
       },
-      "baseCode": {
-        "value": {
-          "fontFamily": "Spezia",
-          "fontWeight": "SemiMono Regular",
-          "lineHeight": "$size.font.base * 1.25",
-          "fontSize": "$size.font.base * 0.875"
-        },
-        "type": "typography"
-      },
       "baseBold": {
         "value": {
           "fontFamily": "Spezia",
@@ -91,30 +82,12 @@
         },
         "type": "typography"
       },
-      "baseExtended": {
-        "value": {
-          "fontFamily": "Spezia",
-          "fontWeight": "Regular",
-          "lineHeight": "$size.font.base * 1.5",
-          "fontSize": "$size.font.base * 1"
-        },
-        "type": "typography"
-      },
-      "baseExtendedCode": {
+      "baseCode": {
         "value": {
           "fontFamily": "Spezia",
           "fontWeight": "SemiMono Regular",
-          "lineHeight": "$size.font.base * 1.5",
-          "fontSize": "$size.font.base * 1"
-        },
-        "type": "typography"
-      },
-      "baseExtendedBold": {
-        "value": {
-          "fontFamily": "Spezia",
-          "fontWeight": "SemiBold",
-          "lineHeight": "$size.font.base * 1.5",
-          "fontSize": "$size.font.base * 1"
+          "lineHeight": "$size.font.base * 1.25",
+          "fontSize": "$size.font.base * 0.875"
         },
         "type": "typography"
       },
@@ -122,6 +95,15 @@
         "value": {
           "fontFamily": "Spezia",
           "fontWeight": "Regular",
+          "lineHeight": "$size.font.base * 1",
+          "fontSize": "$size.font.base * 0.75"
+        },
+        "type": "typography"
+      },
+      "baseCondensedBold": {
+        "value": {
+          "fontFamily": "Spezia",
+          "fontWeight": "SemiBold",
           "lineHeight": "$size.font.base * 1",
           "fontSize": "$size.font.base * 0.75"
         },
@@ -136,12 +118,30 @@
         },
         "type": "typography"
       },
-      "baseCondensedBold": {
+      "baseExtended": {
+        "value": {
+          "fontFamily": "Spezia",
+          "fontWeight": "Regular",
+          "lineHeight": "$size.font.base * 1.5",
+          "fontSize": "$size.font.base * 1"
+        },
+        "type": "typography"
+      },
+      "baseExtendedBold": {
         "value": {
           "fontFamily": "Spezia",
           "fontWeight": "SemiBold",
-          "lineHeight": "$size.font.base * 1",
-          "fontSize": "$size.font.base * 0.75"
+          "lineHeight": "$size.font.base * 1.5",
+          "fontSize": "$size.font.base * 1"
+        },
+        "type": "typography"
+      },
+      "baseExtendedCode": {
+        "value": {
+          "fontFamily": "Spezia",
+          "fontWeight": "SemiMono Regular",
+          "lineHeight": "$size.font.base * 1.5",
+          "fontSize": "$size.font.base * 1"
         },
         "type": "typography"
       }
