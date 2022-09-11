@@ -1,213 +1,147 @@
 {
   "size": {
-		"font": {
-			"headline": {
-				"value": "66"
-			},
-      "subtitle": {
-				"value": "52"
-			},
-      "heading1": {
-				"value": "40"
-			},
-      "heading2": {
-				"value": "32"
-			},
-      "heading3": {
-				"value": "26"
-			},
-      "heading4": {
-				"value": "20"
-			},
+    "font": {
       "base": {
-				"value": "14"
-			},
-      "baseCondensed": {
-				"value": "12"
-			},
-      "baseExtended": {
-				"value": "16"
-			}
-		},
-		"lineHeight": {
-			"headline": {
-				"value": "88"
-			},
-      "subtitle": {
-				"value": "68"
-			},
-      "heading1": {
-				"value": "52"
-			},
-      "heading2": {
-				"value": "44"
-			},
-      "heading3": {
-				"value": "36"
-			},
-      "heading4": {
-				"value": "28"
-			},
-      "base": {
-				"value": "20"
-			},
-      "baseCondensed": {
-				"value": "16"
-			},
-      "baseExtended": {
-				"value": "24"
-			}
-		}
-	},
+        "value": "16",
+        "type": "sizing",
+        "description": "base of the typography scale"
+      }
+    }
+  },
   "font": {
     "alias": {
       "headline": {
         "value": {
-          "fontFamily": "{fontFamily.upright}",
-          "fontWeight": "{fontWeight.medium}",
-					"lineHeight": "{size.lineHeight.headline}",
-					"fontSize": "{size.font.headline}",
-          "fontStretch": "{fontStretch.condensed}"
+          "fontFamily": "Spezia",
+          "fontWeight": "Wide Medium",
+          "lineHeight": "$size.font.base * 5.5",
+          "fontSize": "$size.font.base * 4.125"
         },
         "type": "typography"
       },
       "subtitle": {
         "value": {
-          "fontFamily": "{fontFamily.upright}",
-          "fontWeight": "{fontWeight.medium}",
-          "lineHeight": "{size.lineHeight.subtitle}",
-          "fontSize": "{size.font.subtitle}",
-          "fontStretch": "{fontStretch.condensed}"
+          "fontFamily": "Spezia",
+          "fontWeight": "Wide Medium",
+          "lineHeight": "$size.font.base * 4.25",
+          "fontSize": "$size.font.base * 3.25"
         },
         "type": "typography"
       },
       "heading1": {
         "value": {
-          "fontFamily": "{fontFamily.upright}",
-          "fontWeight": "{fontWeight.medium}",
-          "lineHeight": "{size.lineHeight.heading1}",
-          "fontSize": "{size.font.heading1}",
-          "fontStretch": "{fontStretch.condensed}"
+          "fontFamily": "Spezia",
+          "fontWeight": "Wide Medium",
+          "lineHeight": "$size.font.base * 3.25",
+          "fontSize": "$size.font.base * 2.5"
         },
         "type": "typography"
       },
       "heading2": {
         "value": {
-          "fontFamily": "{fontFamily.upright}",
-          "fontWeight": "{fontWeight.medium}",
-          "lineHeight": "{size.lineHeight.heading2}",
-          "fontSize": "{size.font.heading2}",
-          "fontStretch": "{fontStretch.condensed}"
+          "fontFamily": "Spezia",
+          "fontWeight": "Wide Medium",
+          "lineHeight": "$size.font.base * 2.75",
+          "fontSize": "$size.font.base * 2"
         },
         "type": "typography"
       },
       "heading3": {
         "value": {
-          "fontFamily": "{fontFamily.upright}",
-          "fontWeight": "{fontWeight.medium}",
-          "lineHeight": "{size.lineHeight.heading3}",
-          "fontSize": "{size.font.heading3}",
-          "fontStretch": "{fontStretch.condensed}"
+          "fontFamily": "Spezia",
+          "fontWeight": "Wide Medium",
+          "lineHeight": "$size.font.base * 2.25",
+          "fontSize": "$size.font.base * 1.625"
         },
         "type": "typography"
       },
       "heading4": {
         "value": {
-          "fontFamily": "{fontFamily.upright}",
-          "fontWeight": "{fontWeight.medium}",
-          "lineHeight": "{size.lineHeight.heading4}",
-          "fontSize": "{size.font.heading4}",
-          "fontStretch": "{fontStretch.condensed}"
+          "fontFamily": "Spezia",
+          "fontWeight": "Wide Medium",
+          "lineHeight": "$size.font.base * 1.75",
+          "fontSize": "$size.font.base * 1.25"
         },
         "type": "typography"
       },
       "base": {
         "value": {
-          "fontFamily": "{fontFamily.upright}",
-          "fontWeight": "{fontWeight.regular}",
-          "lineHeight": "{size.lineHeight.base}",
-					"fontSize": "{size.font.base}",
-          "fontStretch": "{fontStretch.ultraCondensed}"
+          "fontFamily": "Spezia",
+          "fontWeight": "Regular",
+          "lineHeight": "$size.font.base * 1.25",
+          "fontSize": "$size.font.base * 0.875"
         },
         "type": "typography"
       },
       "baseBold": {
         "value": {
-          "fontFamily": "{fontFamily.upright}",
-          "fontWeight": "{fontWeight.semiBold}",
-          "lineHeight": "{size.lineHeight.base}",
-					"fontSize": "{size.font.base}",
-          "fontStretch": "{fontStretch.ultraCondensed}"
+          "fontFamily": "Spezia",
+          "fontWeight": "SemiBold",
+          "lineHeight": "$size.font.base * 1.25",
+          "fontSize": "$size.font.base * 0.875"
         },
         "type": "typography"
       },
       "baseCode": {
         "value": {
-          "fontFamily": "{fontFamily.monospace}",
-          "fontWeight": "{fontWeight.regular}",
-          "lineHeight": "{size.lineHeight.base}",
-					"fontSize": "{size.font.base}",
-          "fontStretch": "{fontStretch.ultraCondensed}"
+          "fontFamily": "Spezia",
+          "fontWeight": "SemiMono Regular",
+          "lineHeight": "$size.font.base * 1.25",
+          "fontSize": "$size.font.base * 0.875"
         },
         "type": "typography"
       },
       "baseCondensed": {
         "value": {
-          "fontFamily": "{fontFamily.upright}",
-          "fontWeight": "{fontWeight.regular}",
-					"lineHeight": "{size.lineHeight.baseCondensed}",
-					"fontSize": "{size.font.baseCondensed}",
-          "fontStretch": "{fontStretch.ultraCondensed}"
+          "fontFamily": "Spezia",
+          "fontWeight": "Regular",
+          "lineHeight": "$size.font.base * 1",
+          "fontSize": "$size.font.base * 0.75"
         },
         "type": "typography"
       },
       "baseCondensedBold": {
         "value": {
-          "fontFamily": "{fontFamily.upright}",
-          "fontWeight": "{fontWeight.semiBold}",
-					"lineHeight": "{size.lineHeight.baseCondensed}",
-					"fontSize": "{size.font.baseCondensed}",
-          "fontStretch": "{fontStretch.ultraCondensed}"
+          "fontFamily": "Spezia",
+          "fontWeight": "SemiBold",
+          "lineHeight": "$size.font.base * 1",
+          "fontSize": "$size.font.base * 0.75"
         },
         "type": "typography"
       },
       "baseCondensedCode": {
         "value": {
-          "fontFamily": "{fontFamily.monospace}",
-          "fontWeight": "{fontWeight.regular}",
-					"lineHeight": "{size.lineHeight.baseCondensed}",
-					"fontSize": "{size.font.baseCondensed}",
-          "fontStretch": "{fontStretch.ultraCondensed}"
+          "fontFamily": "Spezia",
+          "fontWeight": "SemiMono Regular",
+          "lineHeight": "$size.font.base * 1",
+          "fontSize": "$size.font.base * 0.75"
         },
         "type": "typography"
       },
       "baseExtended": {
         "value": {
-          "fontFamily": "{fontFamily.upright}",
-          "fontWeight": "{fontWeight.regular}",
-					"lineHeight": "{size.lineHeight.baseExtended}",
-					"fontSize": "{size.font.baseExtended}",
-          "fontStretch": "{fontStretch.ultraCondensed}"
+          "fontFamily": "Spezia",
+          "fontWeight": "Regular",
+          "lineHeight": "$size.font.base * 1.5",
+          "fontSize": "$size.font.base * 1"
         },
         "type": "typography"
       },
       "baseExtendedBold": {
         "value": {
-          "fontFamily": "{fontFamily.upright}",
-          "fontWeight": "{fontWeight.semiBold}",
-					"lineHeight": "{size.lineHeight.baseExtended}",
-					"fontSize": "{size.font.baseExtended}",
-          "fontStretch": "{fontStretch.ultraCondensed}"
+          "fontFamily": "Spezia",
+          "fontWeight": "SemiBold",
+          "lineHeight": "$size.font.base * 1.5",
+          "fontSize": "$size.font.base * 1"
         },
         "type": "typography"
       },
       "baseExtendedCode": {
         "value": {
-          "fontFamily": "{fontFamily.monospace}",
-          "fontWeight": "{fontWeight.regular}",
-					"lineHeight": "{size.lineHeight.baseExtended}",
-					"fontSize": "{size.font.baseExtended}",
-          "fontStretch": "{fontStretch.ultraCondensed}"
+          "fontFamily": "Spezia",
+          "fontWeight": "SemiMono Regular",
+          "lineHeight": "$size.font.base * 1.5",
+          "fontSize": "$size.font.base * 1"
         },
         "type": "typography"
       }
