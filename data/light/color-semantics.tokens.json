@@ -2,14 +2,14 @@
   "color": {
     "alias": {
       "scheme": {
-				"value": "light"
-			},
+        "value": "light"
+      },
       "canvas": {
         "value": "{color.grey.0}",
         "type": "color"
       },
       "canvas-text": {
-        "value": "{color.grey.1000}",
+        "value": "{color.grey.950}",
         "type": "color"
       },
       "neutral": {
