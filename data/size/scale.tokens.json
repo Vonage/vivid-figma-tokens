@@ -1,0 +1,56 @@
+{
+  "sizing": {
+    "unit": {
+      "type": "sizing",
+      "value": "4"
+    },
+    "base": {
+      "type": "sizing",
+      "value": "10 * $sizing.unit"
+    },
+    "ultra-condensed": {
+      "type": "sizing",
+      "value": "$sizing.base - 5 * $sizing.unit"
+    },
+    "super-condensed": {
+      "type": "sizing",
+      "value": "$sizing.base - 4 * $sizing.unit"
+    },
+    "extra-condensed": {
+      "type": "sizing",
+      "value": "$sizing.base - 3 * $sizing.unit"
+    },
+    "condensed": {
+      "type": "sizing",
+      "value": "$sizing.base - 2 * $sizing.unit"
+    },
+    "semi-condensed": {
+      "type": "sizing",
+      "value": "$sizing.base - 1 * $sizing.unit"
+    },
+    "normal": {
+      "type": "sizing",
+      "value": "$sizing.base"
+    },
+    "semi-expanded": {
+      "type": "sizing",
+      "value": "$sizing.base + 1 * $sizing.unit"
+    },
+    "expanded": {
+      "type": "sizing",
+      "value": "$sizing.base + 2 * $sizing.unit"
+    },
+    "extra-expanded": {
+      "type": "sizing",
+      "value": "$sizing.base + 3 * $sizing.unit"
+    },
+    "super-expanded": {
+      "type": "sizing",
+      "value": "$sizing.base + 4 * $sizing.unit"
+    },
+    "ultra-expanded": {
+      "type": "sizing",
+      "value": "$sizing.base + 5 * $sizing.unit"
+    }
+  }
+}
