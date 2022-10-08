@@ -1,5 +1,5 @@
 {
-  "sizing": {
+  "size": {
     "alias": {
       "unit": {
         "type": "sizing",
@@ -7,51 +7,51 @@
       },
       "base": {
         "type": "sizing",
-        "value": "10 * $sizing.unit"
+        "value": "10 * $size.alias.unit"
       },
       "ultra-condensed": {
         "type": "sizing",
-        "value": "$sizing.base - 5 * $sizing.unit"
+        "value": "$size.alias.base - 5 * $size.alias.unit"
       },
       "super-condensed": {
         "type": "sizing",
-        "value": "$sizing.base - 4 * $sizing.unit"
+        "value": "$size.alias.base - 4 * $size.alias.unit"
       },
       "extra-condensed": {
         "type": "sizing",
-        "value": "$sizing.base - 3 * $sizing.unit"
+        "value": "$size.alias.base - 3 * $size.alias.unit"
       },
       "condensed": {
         "type": "sizing",
-        "value": "$sizing.base - 2 * $sizing.unit"
+        "value": "$size.alias.base - 2 * $size.alias.unit"
       },
       "semi-condensed": {
         "type": "sizing",
-        "value": "$sizing.base - 1 * $sizing.unit"
+        "value": "$size.alias.base - 1 * $size.alias.unit"
       },
       "normal": {
         "type": "sizing",
-        "value": "$sizing.base"
+        "value": "$size.alias.base"
       },
       "semi-expanded": {
         "type": "sizing",
-        "value": "$sizing.base + 1 * $sizing.unit"
+        "value": "$size.alias.base + 1 * $size.alias.unit"
       },
       "expanded": {
         "type": "sizing",
-        "value": "$sizing.base + 2 * $sizing.unit"
+        "value": "$size.alias.base + 2 * $size.alias.unit"
       },
       "extra-expanded": {
         "type": "sizing",
-        "value": "$sizing.base + 3 * $sizing.unit"
+        "value": "$size.alias.base + 3 * $size.alias.unit"
       },
       "super-expanded": {
         "type": "sizing",
-        "value": "$sizing.base + 4 * $sizing.unit"
+        "value": "$size.alias.base + 4 * $size.alias.unit"
       },
       "ultra-expanded": {
         "type": "sizing",
-        "value": "$sizing.base + 5 * $sizing.unit"
+        "value": "$size.alias.base + 5 * $size.alias.unit"
       }
     }
   }
