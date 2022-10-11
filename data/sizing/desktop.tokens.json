@@ -1,58 +1,50 @@
 {
   "size": {
     "alias": {
-      "unit": {
+      "ultra-condensed": {
         "type": "sizing",
-        "value": "4"
+        "value": "{size.alias.base} - {size.alias.unit} * 5"
       },
-      "base": {
+      "super-condensed": {
         "type": "sizing",
-        "value": "{size.alias.unit} * 10"
+        "value": "{size.alias.base} - {size.alias.unit} * 4"
+      },
+      "extra-condensed": {
+        "type": "sizing",
+        "value": "{size.alias.base} - {size.alias.unit} * 3"
+      },
+      "condensed": {
+        "type": "sizing",
+        "value": "{size.alias.base} - {size.alias.unit} * 2"
+      },
+      "semi-condensed": {
+        "type": "sizing",
+        "value": "{size.alias.base} - {size.alias.unit} * 1"
+      },
+      "normal": {
+        "type": "sizing",
+        "value": "{size.alias.base}"
+      },
+      "semi-expanded": {
+        "type": "sizing",
+        "value": "{size.alias.base} + {size.alias.unit} * 1"
+      },
+      "expanded": {
+        "type": "sizing",
+        "value": "{size.alias.base} + {size.alias.unit} * 2"
+      },
+      "extra-expanded": {
+        "type": "sizing",
+        "value": "{size.alias.base} + {size.alias.unit} * 3"
+      },
+      "super-expanded": {
+        "type": "sizing",
+        "value": "{size.alias.base} + {size.alias.unit} * 4"
+      },
+      "ultra-expanded": {
+        "type": "sizing",
+        "value": "{size.alias.base} + {size.alias.unit} * 5"
       }
-    },
-    "ultra-condensed": {
-      "type": "sizing",
-      "value": "{size.alias.base} - {size.alias.unit} * 5"
-    },
-    "super-condensed": {
-      "type": "sizing",
-      "value": "{size.alias.base} - {size.alias.unit} * 4"
-    },
-    "extra-condensed": {
-      "type": "sizing",
-      "value": "{size.alias.base} - {size.alias.unit} * 3"
-    },
-    "condensed": {
-      "type": "sizing",
-      "value": "{size.alias.base} - {size.alias.unit} * 2"
-    },
-    "semi-condensed": {
-      "type": "sizing",
-      "value": "{size.alias.base} - {size.alias.unit} * 1"
-    },
-    "normal": {
-      "type": "sizing",
-      "value": "{size.alias.base}"
-    },
-    "semi-expanded": {
-      "type": "sizing",
-      "value": "{size.alias.base} + {size.alias.unit} * 1"
-    },
-    "expanded": {
-      "type": "sizing",
-      "value": "{size.alias.base} + {size.alias.unit} * 2"
-    },
-    "extra-expanded": {
-      "type": "sizing",
-      "value": "{size.alias.base} + {size.alias.unit} * 3"
-    },
-    "super-expanded": {
-      "type": "sizing",
-      "value": "{size.alias.base} + {size.alias.unit} * 4"
-    },
-    "ultra-expanded": {
-      "type": "sizing",
-      "value": "{size.alias.base} + {size.alias.unit} * 5"
     }
   }
 }

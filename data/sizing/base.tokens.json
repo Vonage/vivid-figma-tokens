@@ -1,0 +1,14 @@
+{
+  "size": {
+    "alias": {
+      "unit": {
+        "type": "sizing",
+        "value": "4"
+      },
+      "base": {
+        "type": "sizing",
+        "value": "{size.alias.unit} * 10"
+      }
+    }
+  }
+}
