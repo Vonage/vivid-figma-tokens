@@ -85,7 +85,7 @@
       "baseCode": {
         "value": {
           "fontFamily": "SpeziaMonoCompleteVariable",
-          "fontWeight": "SemiMono Regular",
+          "fontWeight": "Regular",
           "lineHeight": "{size.font.base} * 1.25",
           "fontSize": "{size.font.base} * 0.875"
         },
@@ -112,7 +112,7 @@
       "baseCondensedCode": {
         "value": {
           "fontFamily": "SpeziaMonoCompleteVariable",
-          "fontWeight": "SemiMono Regular",
+          "fontWeight": "Regular",
           "lineHeight": "{size.font.base} * 1",
           "fontSize": "{size.font.base} * 0.75"
         },
@@ -139,7 +139,7 @@
       "baseExtendedCode": {
         "value": {
           "fontFamily": "SpeziaMonoCompleteVariable",
-          "fontWeight": "SemiMono Regular",
+          "fontWeight": "Regular",
           "lineHeight": "{size.font.base} * 1.5",
           "fontSize": "{size.font.base} * 1"
         },
