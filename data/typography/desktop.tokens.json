@@ -14,8 +14,8 @@
         "value": {
           "fontFamily": "Spezia",
           "fontWeight": "Wide Medium",
-          "lineHeight": "$size.font.base * 5.5",
-          "fontSize": "$size.font.base * 4.125"
+          "lineHeight": "{size.font.base} * 5.5",
+          "fontSize": "{size.font.base} * 4.125"
         },
         "type": "typography"
       },
@@ -23,8 +23,8 @@
         "value": {
           "fontFamily": "Spezia",
           "fontWeight": "Wide Medium",
-          "lineHeight": "$size.font.base * 4.25",
-          "fontSize": "$size.font.base * 3.25"
+          "lineHeight": "{size.font.base} * 4.25",
+          "fontSize": "{size.font.base} * 3.25"
         },
         "type": "typography"
       },
@@ -32,8 +32,8 @@
         "value": {
           "fontFamily": "Spezia",
           "fontWeight": "Wide Medium",
-          "lineHeight": "$size.font.base * 3.25",
-          "fontSize": "$size.font.base * 2.5"
+          "lineHeight": "{size.font.base} * 3.25",
+          "fontSize": "{size.font.base} * 2.5"
         },
         "type": "typography"
       },
@@ -41,8 +41,8 @@
         "value": {
           "fontFamily": "Spezia",
           "fontWeight": "Wide Medium",
-          "lineHeight": "$size.font.base * 2.75",
-          "fontSize": "$size.font.base * 2"
+          "lineHeight": "{size.font.base} * 2.75",
+          "fontSize": "{size.font.base} * 2"
         },
         "type": "typography"
       },
@@ -50,8 +50,8 @@
         "value": {
           "fontFamily": "Spezia",
           "fontWeight": "Wide Medium",
-          "lineHeight": "$size.font.base * 2.25",
-          "fontSize": "$size.font.base * 1.625"
+          "lineHeight": "{size.font.base} * 2.25",
+          "fontSize": "{size.font.base} * 1.625"
         },
         "type": "typography"
       },
@@ -59,8 +59,8 @@
         "value": {
           "fontFamily": "Spezia",
           "fontWeight": "Wide Medium",
-          "lineHeight": "$size.font.base * 1.75",
-          "fontSize": "$size.font.base * 1.25"
+          "lineHeight": "{size.font.base} * 1.75",
+          "fontSize": "{size.font.base} * 1.25"
         },
         "type": "typography"
       },
@@ -68,8 +68,8 @@
         "value": {
           "fontFamily": "Spezia",
           "fontWeight": "Regular",
-          "lineHeight": "$size.font.base * 1.25",
-          "fontSize": "$size.font.base * 0.875"
+          "lineHeight": "{size.font.base} * 1.25",
+          "fontSize": "{size.font.base} * 0.875"
         },
         "type": "typography"
       },
@@ -77,8 +77,8 @@
         "value": {
           "fontFamily": "Spezia",
           "fontWeight": "SemiBold",
-          "lineHeight": "$size.font.base * 1.25",
-          "fontSize": "$size.font.base * 0.875"
+          "lineHeight": "{size.font.base} * 1.25",
+          "fontSize": "{size.font.base} * 0.875"
         },
         "type": "typography"
       },
@@ -86,8 +86,8 @@
         "value": {
           "fontFamily": "Spezia",
           "fontWeight": "SemiMono Regular",
-          "lineHeight": "$size.font.base * 1.25",
-          "fontSize": "$size.font.base * 0.875"
+          "lineHeight": "{size.font.base} * 1.25",
+          "fontSize": "{size.font.base} * 0.875"
         },
         "type": "typography"
       },
@@ -95,8 +95,8 @@
         "value": {
           "fontFamily": "Spezia",
           "fontWeight": "Regular",
-          "lineHeight": "$size.font.base * 1",
-          "fontSize": "$size.font.base * 0.75"
+          "lineHeight": "{size.font.base} * 1",
+          "fontSize": "{size.font.base} * 0.75"
         },
         "type": "typography"
       },
@@ -104,8 +104,8 @@
         "value": {
           "fontFamily": "Spezia",
           "fontWeight": "SemiBold",
-          "lineHeight": "$size.font.base * 1",
-          "fontSize": "$size.font.base * 0.75"
+          "lineHeight": "{size.font.base} * 1",
+          "fontSize": "{size.font.base} * 0.75"
         },
         "type": "typography"
       },
@@ -113,8 +113,8 @@
         "value": {
           "fontFamily": "Spezia",
           "fontWeight": "SemiMono Regular",
-          "lineHeight": "$size.font.base * 1",
-          "fontSize": "$size.font.base * 0.75"
+          "lineHeight": "{size.font.base} * 1",
+          "fontSize": "{size.font.base} * 0.75"
         },
         "type": "typography"
       },
@@ -122,8 +122,8 @@
         "value": {
           "fontFamily": "Spezia",
           "fontWeight": "Regular",
-          "lineHeight": "$size.font.base * 1.5",
-          "fontSize": "$size.font.base * 1"
+          "lineHeight": "{size.font.base} * 1.5",
+          "fontSize": "{size.font.base} * 1"
         },
         "type": "typography"
       },
@@ -131,8 +131,8 @@
         "value": {
           "fontFamily": "Spezia",
           "fontWeight": "SemiBold",
-          "lineHeight": "$size.font.base * 1.5",
-          "fontSize": "$size.font.base * 1"
+          "lineHeight": "{size.font.base} * 1.5",
+          "fontSize": "{size.font.base} * 1"
         },
         "type": "typography"
       },
@@ -140,8 +140,8 @@
         "value": {
           "fontFamily": "Spezia",
           "fontWeight": "SemiMono Regular",
-          "lineHeight": "$size.font.base * 1.5",
-          "fontSize": "$size.font.base * 1"
+          "lineHeight": "{size.font.base} * 1.5",
+          "fontSize": "{size.font.base} * 1"
         },
         "type": "typography"
       }
