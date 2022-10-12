@@ -12,136 +12,136 @@
     "alias": {
       "headline": {
         "value": {
-          "fontFamily": "Spezia",
+          "fontFamily": "SpeziaCompleteVariableUpright",
           "fontWeight": "Wide Medium",
-          "lineHeight": "$size.font.base * 5.5",
-          "fontSize": "$size.font.base * 4.125"
+          "lineHeight": "{size.font.base} * 5.5",
+          "fontSize": "{size.font.base} * 4.125"
         },
         "type": "typography"
       },
       "subtitle": {
         "value": {
-          "fontFamily": "Spezia",
+          "fontFamily": "SpeziaCompleteVariableUpright",
           "fontWeight": "Wide Medium",
-          "lineHeight": "$size.font.base * 4.25",
-          "fontSize": "$size.font.base * 3.25"
+          "lineHeight": "{size.font.base} * 4.25",
+          "fontSize": "{size.font.base} * 3.25"
         },
         "type": "typography"
       },
       "heading1": {
         "value": {
-          "fontFamily": "Spezia",
+          "fontFamily": "SpeziaCompleteVariableUpright",
           "fontWeight": "Wide Medium",
-          "lineHeight": "$size.font.base * 3.25",
-          "fontSize": "$size.font.base * 2.5"
+          "lineHeight": "{size.font.base} * 3.25",
+          "fontSize": "{size.font.base} * 2.5"
         },
         "type": "typography"
       },
       "heading2": {
         "value": {
-          "fontFamily": "Spezia",
+          "fontFamily": "SpeziaCompleteVariableUpright",
           "fontWeight": "Wide Medium",
-          "lineHeight": "$size.font.base * 2.75",
-          "fontSize": "$size.font.base * 2"
+          "lineHeight": "{size.font.base} * 2.75",
+          "fontSize": "{size.font.base} * 2"
         },
         "type": "typography"
       },
       "heading3": {
         "value": {
-          "fontFamily": "Spezia",
+          "fontFamily": "SpeziaCompleteVariableUpright",
           "fontWeight": "Wide Medium",
-          "lineHeight": "$size.font.base * 2.25",
-          "fontSize": "$size.font.base * 1.625"
+          "lineHeight": "{size.font.base} * 2.25",
+          "fontSize": "{size.font.base} * 1.625"
         },
         "type": "typography"
       },
       "heading4": {
         "value": {
-          "fontFamily": "Spezia",
+          "fontFamily": "SpeziaCompleteVariableUpright",
           "fontWeight": "Wide Medium",
-          "lineHeight": "$size.font.base * 1.75",
-          "fontSize": "$size.font.base * 1.25"
+          "lineHeight": "{size.font.base} * 1.75",
+          "fontSize": "{size.font.base} * 1.25"
         },
         "type": "typography"
       },
       "base": {
         "value": {
-          "fontFamily": "Spezia",
+          "fontFamily": "SpeziaCompleteVariableUpright",
           "fontWeight": "Regular",
-          "lineHeight": "$size.font.base * 1.25",
-          "fontSize": "$size.font.base * 0.875"
+          "lineHeight": "{size.font.base} * 1.25",
+          "fontSize": "{size.font.base} * 0.875"
         },
         "type": "typography"
       },
       "baseBold": {
         "value": {
-          "fontFamily": "Spezia",
+          "fontFamily": "SpeziaCompleteVariableUpright",
           "fontWeight": "SemiBold",
-          "lineHeight": "$size.font.base * 1.25",
-          "fontSize": "$size.font.base * 0.875"
+          "lineHeight": "{size.font.base} * 1.25",
+          "fontSize": "{size.font.base} * 0.875"
         },
         "type": "typography"
       },
       "baseCode": {
         "value": {
-          "fontFamily": "Spezia",
-          "fontWeight": "SemiMono Regular",
-          "lineHeight": "$size.font.base * 1.25",
-          "fontSize": "$size.font.base * 0.875"
+          "fontFamily": "SpeziaMonoCompleteVariable",
+          "fontWeight": "Regular",
+          "lineHeight": "{size.font.base} * 1.25",
+          "fontSize": "{size.font.base} * 0.875"
         },
         "type": "typography"
       },
       "baseCondensed": {
         "value": {
-          "fontFamily": "Spezia",
+          "fontFamily": "SpeziaCompleteVariableUpright",
           "fontWeight": "Regular",
-          "lineHeight": "$size.font.base * 1",
-          "fontSize": "$size.font.base * 0.75"
+          "lineHeight": "{size.font.base} * 1",
+          "fontSize": "{size.font.base} * 0.75"
         },
         "type": "typography"
       },
       "baseCondensedBold": {
         "value": {
-          "fontFamily": "Spezia",
+          "fontFamily": "SpeziaCompleteVariableUpright",
           "fontWeight": "SemiBold",
-          "lineHeight": "$size.font.base * 1",
-          "fontSize": "$size.font.base * 0.75"
+          "lineHeight": "{size.font.base} * 1",
+          "fontSize": "{size.font.base} * 0.75"
         },
         "type": "typography"
       },
       "baseCondensedCode": {
         "value": {
-          "fontFamily": "Spezia",
-          "fontWeight": "SemiMono Regular",
-          "lineHeight": "$size.font.base * 1",
-          "fontSize": "$size.font.base * 0.75"
+          "fontFamily": "SpeziaMonoCompleteVariable",
+          "fontWeight": "Regular",
+          "lineHeight": "{size.font.base} * 1",
+          "fontSize": "{size.font.base} * 0.75"
         },
         "type": "typography"
       },
       "baseExtended": {
         "value": {
-          "fontFamily": "Spezia",
+          "fontFamily": "SpeziaCompleteVariableUpright",
           "fontWeight": "Regular",
-          "lineHeight": "$size.font.base * 1.5",
-          "fontSize": "$size.font.base * 1"
+          "lineHeight": "{size.font.base} * 1.5",
+          "fontSize": "{size.font.base} * 1"
         },
         "type": "typography"
       },
       "baseExtendedBold": {
         "value": {
-          "fontFamily": "Spezia",
+          "fontFamily": "SpeziaCompleteVariableUpright",
           "fontWeight": "SemiBold",
-          "lineHeight": "$size.font.base * 1.5",
-          "fontSize": "$size.font.base * 1"
+          "lineHeight": "{size.font.base} * 1.5",
+          "fontSize": "{size.font.base} * 1"
         },
         "type": "typography"
       },
       "baseExtendedCode": {
         "value": {
-          "fontFamily": "Spezia",
-          "fontWeight": "SemiMono Regular",
-          "lineHeight": "$size.font.base * 1.5",
-          "fontSize": "$size.font.base * 1"
+          "fontFamily": "SpeziaMonoCompleteVariable",
+          "fontWeight": "Regular",
+          "lineHeight": "{size.font.base} * 1.5",
+          "fontSize": "{size.font.base} * 1"
         },
         "type": "typography"
       }
