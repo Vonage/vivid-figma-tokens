@@ -1,0 +1,32 @@
+{
+  "size": {
+    "font": {
+      "scaleBase": {
+        "value": "16",
+        "type": "sizing"
+      },
+      "scaleUnit": {
+        "value": "1.125",
+        "type": "sizing"
+      },
+      "heading-1": {
+        "value": "{size.font.scaleBase} * {size.font.scaleUnit} ^ 5",
+        "type": "fontSizes"
+      },
+      "heading-2": {
+        "value": "{size.font.scaleBase} * {size.font.scaleUnit} ^ 4",
+        "type": "fontSizes"
+      }
+    }
+  },
+  "lineHeight": {
+    "headline-1": {
+      "value": "1.8",
+      "type": "lineHeights"
+    },
+    "headline-2": {
+      "value": "1.5",
+      "type": "lineHeights"
+    }
+  }
+}

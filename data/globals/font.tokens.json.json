@@ -1,0 +1,22 @@
+{
+  "fontFamily": {
+    "upright": {
+      "value": "Spezia",
+      "type": "fontFamilies"
+    }
+  },
+  "fontWeight": {
+    "semiBold": {
+      "value": "SemiBold",
+      "type": "fontWeights"
+    },
+    "medium": {
+      "value": "Wide Medium",
+      "type": "fontWeights"
+    },
+    "regular": {
+      "value": "Regular",
+      "type": "fontWeights"
+    }
+  }
+}

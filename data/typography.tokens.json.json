@@ -1,0 +1,22 @@
+{
+  "typography": {
+    "heading-1": {
+      "value": {
+        "fontFamily": "{fontFamily.upright}",
+        "fontSize": "{size.font.heading-1}",
+        "lineHeight": "{lineHeight.headline-1}",
+        "fontWeight": "{fontWeight.medium}"
+      },
+      "type": "typography"
+    },
+    "heading-2": {
+      "value": {
+        "fontFamily": "{fontFamily.upright}",
+        "fontSize": "{size.font.heading-2}",
+        "lineHeight": "{lineHeight.headline-2}",
+        "fontWeight": "{fontWeight.medium}"
+      },
+      "type": "typography"
+    }
+  }
+}
