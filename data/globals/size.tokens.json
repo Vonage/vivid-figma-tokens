@@ -4,9 +4,10 @@
       "type": "sizing",
       "value": "4"
     },
-    "designBase": {
+    "base": {
       "type": "sizing",
-      "value": "{size.unitMultiplier.10}"
+      "value": "{size.unitMultiplier.10}",
+      "public": true
     },
     "unitMultiplier": {
       "1": {
