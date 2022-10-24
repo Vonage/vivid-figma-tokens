@@ -2,7 +2,8 @@
   "fontFamily": {
     "upright": {
       "value": "Spezia",
-      "type": "fontFamilies"
+      "type": "fontFamilies",
+      "public": true
     }
   },
   "fontWeight": {
