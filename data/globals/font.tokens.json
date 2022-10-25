@@ -4,6 +4,11 @@
       "value": "Spezia",
       "type": "fontFamilies",
       "public": true
+    },
+    "monospace": {
+      "value": "Spezia",
+      "type": "fontFamilies",
+      "public": true
     }
   },
   "fontWeight": {
