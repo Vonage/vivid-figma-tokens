@@ -1,12 +1,12 @@
 {
   "fontFamily": {
     "upright": {
-      "value": "Spezia",
+      "value": "SpeziaCompleteVariableUpright",
       "type": "fontFamilies",
       "public": true
     },
     "monospace": {
-      "value": "Spezia",
+      "value": "SpeziaMonoCompleteVariable",
       "type": "fontFamilies",
       "public": true
     }
