@@ -1,4 +1,42 @@
 {
+  "lineHeight": {
+    "headline": {
+      "value": "1.333",
+      "type": "lineHeights"
+    },
+    "subtitle": {
+      "value": "1.307",
+      "type": "lineHeights"
+    },
+    "heading-1": {
+      "value": "1.3",
+      "type": "lineHeights"
+    },
+    "heading-2": {
+      "value": "1.375",
+      "type": "lineHeights"
+    },
+    "heading-3": {
+      "value": "1.384",
+      "type": "lineHeights"
+    },
+    "heading-4": {
+      "value": "1.4",
+      "type": "lineHeights"
+    },
+    "base": {
+      "value": "1.428",
+      "type": "lineHeights"
+    },
+    "baseCondensed": {
+      "value": "1.333",
+      "type": "lineHeights"
+    },
+    "baseExtended": {
+      "value": "1.5",
+      "type": "lineHeights"
+    }
+  },
   "size": {
     "scale": {
       "unit": {
@@ -41,44 +79,6 @@
       "unit-2": {
         "value": "{size.scale.unit} ^ -2",
         "type": "sizing"
-      }
-    },
-    "lineHeight": {
-      "headline": {
-        "value": "1.333",
-        "type": "lineHeights"
-      },
-      "subtitle": {
-        "value": "1.307",
-        "type": "lineHeights"
-      },
-      "heading-1": {
-        "value": "1.3",
-        "type": "lineHeights"
-      },
-      "heading-2": {
-        "value": "1.375",
-        "type": "lineHeights"
-      },
-      "heading-3": {
-        "value": "1.384",
-        "type": "lineHeights"
-      },
-      "heading-4": {
-        "value": "1.4",
-        "type": "lineHeights"
-      },
-      "base": {
-        "value": "1.428",
-        "type": "lineHeights"
-      },
-      "baseCondensed": {
-        "value": "1.333",
-        "type": "lineHeights"
-      },
-      "baseExtended": {
-        "value": "1.5",
-        "type": "lineHeights"
       }
     },
     "font": {
