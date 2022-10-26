@@ -1,0 +1,49 @@
+{
+  "size": {
+    "comment": "This expression is simply a complex way of resolving an add/subtract expression. reason to complicate is to avoid having to rely on css unit in the calc expression",
+    "ultraCondensed": {
+      "type": "sizing",
+      "value": "{size.base} * (({size.base} - {size.unitMultiplier.5}) / {size.base})"
+    },
+    "superCondensed": {
+      "type": "sizing",
+      "value": "{size.base} * (({size.base} - {size.unitMultiplier.4}) / {size.base})"
+    },
+    "extraCondensed": {
+      "type": "sizing",
+      "value": "{size.base} * (({size.base} - {size.unitMultiplier.3}) / {size.base})"
+    },
+    "condensed": {
+      "type": "sizing",
+      "value": "{size.base} * (({size.base} - {size.unitMultiplier.2}) / {size.base})"
+    },
+    "semiCondensed": {
+      "type": "sizing",
+      "value": "{size.base} * (({size.base} - {size.unitMultiplier.1}) / {size.base})"
+    },
+    "normal": {
+      "type": "sizing",
+      "value": "{size.base}"
+    },
+    "semiExpanded": {
+      "type": "sizing",
+      "value": "{size.base} * (({size.base} + {size.unitMultiplier.1}) / {size.base})"
+    },
+    "expanded": {
+      "type": "sizing",
+      "value": "{size.base} * (({size.base} + {size.unitMultiplier.2}) / {size.base})"
+    },
+    "extraExpanded": {
+      "type": "sizing",
+      "value": "{size.base} * (({size.base} + {size.unitMultiplier.3}) / {size.base})"
+    },
+    "superExpanded": {
+      "type": "sizing",
+      "value": "{size.base} * (({size.base} + {size.unitMultiplier.4}) / {size.base})"
+    },
+    "ultraExpanded": {
+      "type": "sizing",
+      "value": "{size.base} * (({size.base} + {size.unitMultiplier.5}) / {size.base})"
+    }
+  }
+}
