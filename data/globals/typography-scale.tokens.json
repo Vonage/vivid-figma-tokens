@@ -1,11 +1,11 @@
 {
   "lineHeight": {
     "headline": {
-      "value": "1.333",
+      "value": "1.3333333333333333",
       "type": "lineHeights"
     },
     "subtitle": {
-      "value": "1.307",
+      "value": "1.3076923076923077",
       "type": "lineHeights"
     },
     "heading-1": {
@@ -17,7 +17,7 @@
       "type": "lineHeights"
     },
     "heading-3": {
-      "value": "1.384",
+      "value": "1.3846153846153846",
       "type": "lineHeights"
     },
     "heading-4": {
@@ -25,11 +25,11 @@
       "type": "lineHeights"
     },
     "base": {
-      "value": "1.428",
+      "value": "1.4285714285714286",
       "type": "lineHeights"
     },
     "baseCondensed": {
-      "value": "1.333",
+      "value": "1.3333333333333333",
       "type": "lineHeights"
     },
     "baseExtended": {
