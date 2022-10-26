@@ -39,6 +39,13 @@
   },
   "size": {
     "font": {
+      "scale": {
+        "base": {
+          "value": "16",
+          "type": "sizing",
+          "public": true
+        }
+      },
       "headline": {
         "value": "{size.font.scale.base} * 4.125",
         "type": "fontSizes"
