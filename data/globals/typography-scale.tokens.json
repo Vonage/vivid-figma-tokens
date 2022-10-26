@@ -39,79 +39,36 @@
   },
   "size": {
     "font": {
-      "scale": {
-        "unit": {
-          "value": "1.125",
-          "type": "sizing"
-        },
-        "base": {
-          "value": "16",
-          "type": "sizing",
-          "public": true
-        },
-        "unit+12": {
-          "value": "{size.font.scale.unit} ^ 12.032",
-          "type": "sizing"
-        },
-        "unit+10": {
-          "value": "{size.font.scale.unit} ^ 10.00700135",
-          "type": "sizing"
-        },
-        "unit+8": {
-          "value": "{size.font.scale.unit} ^ 8.1938",
-          "type": "sizing"
-        },
-        "unit+6": {
-          "value": "{size.font.scale.unit} ^ 5.885",
-          "type": "sizing"
-        },
-        "unit+4": {
-          "value": "{size.font.scale.unit} ^ 4.12206",
-          "type": "sizing"
-        },
-        "unit+2": {
-          "value": "{size.font.scale.unit} ^ 2.894531",
-          "type": "sizing"
-        },
-        "unit-1": {
-          "value": "{size.font.scale.unit} ^ -1.1337",
-          "type": "sizing"
-        },
-        "unit-2": {
-          "value": "{size.font.scale.unit} ^ -2.4421",
-          "type": "sizing"
-        }
-      },
       "headline": {
-        "value": "{size.font.scale.base} * {size.font.scale.unit+12}",
+        "value": "{size.font.scale.base} * 4.125",
         "type": "fontSizes"
       },
       "subtitle": {
-        "value": "{size.font.scale.base} * {size.font.scale.unit+10}",
+        "value": "{size.font.scale.base} * 3.25",
         "type": "fontSizes"
       },
       "heading-1": {
-        "value": "{size.font.scale.base} * {size.font.scale.unit+8}",
+        "value": "{size.font.scale.base} * 2.5",
         "type": "fontSizes"
       },
       "heading-2": {
-        "value": "{size.font.scale.base} * {size.font.scale.unit+6}",
+        "value": "{size.font.scale.base} * 2",
         "type": "fontSizes"
       },
       "heading-3": {
-        "value": "{size.font.scale.base} * {size.font.scale.unit+4}",
+        "value": "{size.font.scale.base} * 1.625",
         "type": "fontSizes"
       },
       "heading-4": {
-        "value": "{size.font.scale.base} * {size.font.scale.unit+2}",
+        "value": "{size.font.scale.base} * 1.25",
         "type": "fontSizes"
       },
       "base": {
-        "value": "{size.font.scale.base} * {size.font.scale.unit-1}",
+        "value": "{size.font.scale.base} * 0.875",
         "type": "fontSizes"
       },
       "baseCondensed": {
-        "value": "{size.font.scale.base} * {size.font.scale.unit-2}",
+        "value": "{size.font.scale.base} * 0.75",
         "type": "fontSizes"
       },
       "baseExtended": {
