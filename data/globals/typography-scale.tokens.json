@@ -45,7 +45,7 @@
           "type": "sizing",
           "public": true,
           "@property": {
-            "syntax": "integer",
+            "syntax": "length",
             "inherits": true
           }
         }
