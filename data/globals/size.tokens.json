@@ -12,7 +12,11 @@
       "comment": "global density integer is used to scale all components sizes. allowed values are 0, 1, -1 (0 being default)",
       "value": "0",
       "type": "sizing",
-      "public": true
+      "public": true,
+      "@property": {
+        "syntax": "integer",
+        "inherits": true
+      }
     },
     "unitMultiplier": {
       "1": {

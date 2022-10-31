@@ -43,7 +43,11 @@
         "base": {
           "value": "16",
           "type": "sizing",
-          "public": true
+          "public": true,
+          "@property": {
+            "syntax": "length",
+            "inherits": true
+          }
         }
       },
       "headline": {
