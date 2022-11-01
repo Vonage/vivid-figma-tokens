@@ -1,6 +1,6 @@
 # Changelog
 
-## [1.1.0-next-9](https://github.com/Vonage/vivid-figma-tokens/compare/v1.0.0-next-9...v1.1.0-next-9) (2022-11-01)
+## [0.1.0](https://github.com/Vonage/vivid-figma-tokens/compare/v0.1.0...v0.1.0) (2022-11-01)
 
 
 ### Features
