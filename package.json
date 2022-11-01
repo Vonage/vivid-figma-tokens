@@ -1,6 +1,6 @@
 {
   "name": "vivid-figma-tokens",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "tokens synced with the figma file",
   "main": "index.js",
   "scripts": {
