@@ -20,27 +20,27 @@
     },
     "unitMultiplier": {
       "1": {
-        "type": "math",
+        "type": "sizing",
         "value": "{size.designUnit}"
       },
       "2": {
-        "type": "math",
+        "type": "sizing",
         "value": "{size.designUnit} * 2"
       },
       "3": {
-        "type": "math",
+        "type": "sizing",
         "value": "{size.designUnit} * 3"
       },
       "4": {
-        "type": "math",
+        "type": "sizing",
         "value": "{size.designUnit} * 4"
       },
       "5": {
-        "type": "math",
+        "type": "sizing",
         "value": "{size.designUnit} * 5"
       },
       "10": {
-        "type": "math",
+        "type": "sizing",
         "value": "{size.designUnit} * 10"
       }
     }
