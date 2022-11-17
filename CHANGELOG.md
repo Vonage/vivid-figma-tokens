@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.2](https://github.com/Vonage/vivid-figma-tokens/compare/v0.1.1...v0.1.2) (2022-11-17)
+
+
+### Bug Fixes
+
+* **color tokens:** changed yellow (warning) colors ([0188b0a](https://github.com/Vonage/vivid-figma-tokens/commit/0188b0a2c3f8be98ca39b0ad330717331a9376f0))
+
 ## [0.1.1](https://github.com/Vonage/vivid-figma-tokens/compare/v0.1.0...v0.1.1) (2022-11-01)
 
 
