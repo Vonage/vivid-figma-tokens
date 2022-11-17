@@ -6,7 +6,7 @@
     },
     "base": {
       "type": "sizing",
-      "value": "{size.unitMultiplier.10} + {size.unitMultiplier.2} * {size.density}"
+      "value": "{size.unitMultiplier.10} + {size.unitMultiplier.1} * {size.density}"
     },
     "density": {
       "comment": "global density integer is used to scale all components sizes. allowed values are 0, 1, -1 (0 being default)",
