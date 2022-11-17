@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.3](https://github.com/Vonage/vivid-figma-tokens/compare/v0.1.2...v0.1.3) (2022-11-17)
+
+
+### Bug Fixes
+
+* **color:** revert yellow palette change ([5f11e93](https://github.com/Vonage/vivid-figma-tokens/commit/5f11e9335457528f890caa28d0a3e082e4d09159))
+
 ## [0.1.2](https://github.com/Vonage/vivid-figma-tokens/compare/v0.1.1...v0.1.2) (2022-11-17)
 
 
