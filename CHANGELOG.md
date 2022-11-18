@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.2.0](https://github.com/Vonage/vivid-figma-tokens/compare/v0.1.4...v0.2.0) (2022-11-18)
+
+
+### Features
+
+* **package:** ignore files unrelated to distribution ([5428bd1](https://github.com/Vonage/vivid-figma-tokens/commit/5428bd178d7270e1186683679c68fe17a93eae36))
+
 ## [0.1.3](https://github.com/Vonage/vivid-figma-tokens/compare/v0.1.2...v0.1.3) (2022-11-17)
 
 
