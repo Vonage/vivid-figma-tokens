@@ -12,15 +12,15 @@
     }
   },
   "fontWeight": {
-    "600": {
+    "semiBold": {
       "value": "600",
       "type": "fontWeights"
     },
-    "500": {
+    "medium": {
       "value": "500",
       "type": "fontWeights"
     },
-    "400": {
+    "regular": {
       "value": "400",
       "type": "fontWeights"
     }
