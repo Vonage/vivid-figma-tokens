@@ -3,7 +3,7 @@
     "headline": {
       "value": {
         "fontFamily": "{fontFamily.upright}",
-        "fontWeight": "{fontWeight.medium}",
+        "fontWeight": "{fontWeight.500}",
         "lineHeight": "{lineHeight.headline}",
         "fontSize": "{size.font.headline}"
       },
@@ -12,7 +12,7 @@
     "subtitle": {
       "value": {
         "fontFamily": "{fontFamily.upright}",
-        "fontWeight": "{fontWeight.medium}",
+        "fontWeight": "{fontWeight.500}",
         "lineHeight": "{lineHeight.subtitle}",
         "fontSize": "{size.font.subtitle}"
       },
@@ -21,7 +21,7 @@
     "heading-1": {
       "value": {
         "fontFamily": "{fontFamily.upright}",
-        "fontWeight": "{fontWeight.medium}",
+        "fontWeight": "{fontWeight.500}",
         "lineHeight": "{lineHeight.heading-1}",
         "fontSize": "{size.font.heading-1}"
       },
@@ -30,7 +30,7 @@
     "heading-2": {
       "value": {
         "fontFamily": "{fontFamily.upright}",
-        "fontWeight": "{fontWeight.medium}",
+        "fontWeight": "{fontWeight.500}",
         "lineHeight": "{lineHeight.heading-2}",
         "fontSize": "{size.font.heading-2}"
       },
@@ -39,7 +39,7 @@
     "heading-3": {
       "value": {
         "fontFamily": "{fontFamily.upright}",
-        "fontWeight": "{fontWeight.medium}",
+        "fontWeight": "{fontWeight.500}",
         "lineHeight": "{lineHeight.heading-3}",
         "fontSize": "{size.font.heading-3}"
       },
@@ -48,7 +48,7 @@
     "heading-4": {
       "value": {
         "fontFamily": "{fontFamily.upright}",
-        "fontWeight": "{fontWeight.medium}",
+        "fontWeight": "{fontWeight.500}",
         "lineHeight": "{lineHeight.heading-4}",
         "fontSize": "{size.font.heading-4}"
       },
@@ -57,7 +57,7 @@
     "base": {
       "value": {
         "fontFamily": "{fontFamily.upright}",
-        "fontWeight": "{fontWeight.regular}",
+        "fontWeight": "{fontWeight.400}",
         "lineHeight": "{lineHeight.base}",
         "fontSize": "{size.font.base}"
       },
@@ -66,7 +66,7 @@
     "baseBold": {
       "value": {
         "fontFamily": "{fontFamily.upright}",
-        "fontWeight": "{fontWeight.semiBold}",
+        "fontWeight": "{fontWeight.600}",
         "lineHeight": "{lineHeight.base}",
         "fontSize": "{size.font.base}"
       },
@@ -75,7 +75,7 @@
     "baseCode": {
       "value": {
         "fontFamily": "{fontFamily.monospace}",
-        "fontWeight": "{fontWeight.regular}",
+        "fontWeight": "{fontWeight.400}",
         "lineHeight": "{lineHeight.base}",
         "fontSize": "{size.font.base}"
       },
@@ -84,7 +84,7 @@
     "baseCondensed": {
       "value": {
         "fontFamily": "{fontFamily.upright}",
-        "fontWeight": "{fontWeight.regular}",
+        "fontWeight": "{fontWeight.400}",
         "lineHeight": "{lineHeight.baseCondensed}",
         "fontSize": "{size.font.baseCondensed}"
       },
@@ -93,7 +93,7 @@
     "baseCondensedBold": {
       "value": {
         "fontFamily": "{fontFamily.upright}",
-        "fontWeight": "{fontWeight.semiBold}",
+        "fontWeight": "{fontWeight.600}",
         "lineHeight": "{lineHeight.baseCondensed}",
         "fontSize": "{size.font.baseCondensed}"
       },
@@ -102,7 +102,7 @@
     "baseCondensedCode": {
       "value": {
         "fontFamily": "{fontFamily.monospace}",
-        "fontWeight": "{fontWeight.regular}",
+        "fontWeight": "{fontWeight.400}",
         "lineHeight": "{lineHeight.baseCondensed}",
         "fontSize": "{size.font.baseCondensed}"
       },
@@ -111,7 +111,7 @@
     "baseExtended": {
       "value": {
         "fontFamily": "{fontFamily.upright}",
-        "fontWeight": "{fontWeight.regular}",
+        "fontWeight": "{fontWeight.400}",
         "lineHeight": "{lineHeight.baseExtended}",
         "fontSize": "{size.font.baseExtended}"
       },
@@ -120,7 +120,7 @@
     "baseExtendedBold": {
       "value": {
         "fontFamily": "{fontFamily.upright}",
-        "fontWeight": "{fontWeight.semiBold}",
+        "fontWeight": "{fontWeight.600}",
         "lineHeight": "{lineHeight.baseExtended}",
         "fontSize": "{size.font.baseExtended}"
       },
@@ -129,7 +129,7 @@
     "baseExtendedCode": {
       "value": {
         "fontFamily": "{fontFamily.monospace}",
-        "fontWeight": "{fontWeight.regular}",
+        "fontWeight": "{fontWeight.400}",
         "lineHeight": "{lineHeight.baseExtended}",
         "fontSize": "{size.font.baseExtended}"
       },
