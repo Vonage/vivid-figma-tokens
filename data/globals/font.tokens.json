@@ -1,27 +1,27 @@
 {
   "fontFamily": {
     "upright": {
-      "value": "SpeziaCompleteVariableUpright",
+      "value": "Montserrat",
       "type": "fontFamilies",
       "public": true
     },
     "monospace": {
-      "value": "SpeziaMonoCompleteVariable",
+      "value": "Roboto Mono",
       "type": "fontFamilies",
       "public": true
     }
   },
   "fontWeight": {
     "semiBold": {
-      "value": "SemiBold",
+      "value": "600",
       "type": "fontWeights"
     },
     "medium": {
-      "value": "Wide Medium",
+      "value": "500",
       "type": "fontWeights"
     },
     "regular": {
-      "value": "Regular",
+      "value": "400",
       "type": "fontWeights"
     }
   }
