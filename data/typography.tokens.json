@@ -99,15 +99,6 @@
       },
       "type": "typography"
     },
-    "baseCondensedCode": {
-      "value": {
-        "fontFamily": "{fontFamily.monospace}",
-        "fontWeight": "{fontWeight.regular}",
-        "lineHeight": "{lineHeight.baseCondensed}",
-        "fontSize": "{size.font.baseCondensed}"
-      },
-      "type": "typography"
-    },
     "baseExtended": {
       "value": {
         "fontFamily": "{fontFamily.upright}",
@@ -121,15 +112,6 @@
       "value": {
         "fontFamily": "{fontFamily.upright}",
         "fontWeight": "{fontWeight.semiBold}",
-        "lineHeight": "{lineHeight.baseExtended}",
-        "fontSize": "{size.font.baseExtended}"
-      },
-      "type": "typography"
-    },
-    "baseExtendedCode": {
-      "value": {
-        "fontFamily": "{fontFamily.monospace}",
-        "fontWeight": "{fontWeight.regular}",
         "lineHeight": "{lineHeight.baseExtended}",
         "fontSize": "{size.font.baseExtended}"
       },
