@@ -1,5 +1,16 @@
 # Changelog
 
+## [1.0.0](https://github.com/Vonage/vivid-figma-tokens/compare/v0.3.0...v1.0.0) (2023-01-30)
+
+
+### ⚠ BREAKING CHANGES
+
+* **tokens:** font family public tokens removed
+
+### Code Refactoring
+
+* **tokens:** remove font family from public tokens ([6b0f5d4](https://github.com/Vonage/vivid-figma-tokens/commit/6b0f5d4bd4bfb05a0f80707427776aade1c189c5))
+
 ## [0.2.0](https://github.com/Vonage/vivid-figma-tokens/compare/v0.1.4...v0.2.0) (2022-11-18)
 
 
