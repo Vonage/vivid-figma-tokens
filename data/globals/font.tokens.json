@@ -2,13 +2,11 @@
   "fontFamily": {
     "upright": {
       "value": "Montserrat",
-      "type": "fontFamilies",
-      "public": true
+      "type": "fontFamilies"
     },
     "monospace": {
       "value": "Roboto Mono",
-      "type": "fontFamilies",
-      "public": true
+      "type": "fontFamilies"
     }
   },
   "fontWeight": {
