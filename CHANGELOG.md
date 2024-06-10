@@ -1,5 +1,14 @@
 # Changelog
 
+## [0.4.1](https://github.com/Vonage/vivid-figma-tokens/compare/v0.4.0...v0.4.1) (2024-06-10)
+
+
+### Bug Fixes
+
+* **elevation:** updates dark mode elevation color ([1f88e1d](https://github.com/Vonage/vivid-figma-tokens/commit/1f88e1d07ae155e72d68fee4af5c40b714b53cce))
+* updates dark mode elevation color ([1f88e1d](https://github.com/Vonage/vivid-figma-tokens/commit/1f88e1d07ae155e72d68fee4af5c40b714b53cce))
+* updates dark mode elevation color ([8d8a08f](https://github.com/Vonage/vivid-figma-tokens/commit/8d8a08f1e333e00bbf84136255c5cd8329ab07d1))
+
 ## [0.4.0](https://github.com/Vonage/vivid-figma-tokens/compare/v0.3.0...v0.4.0) (2023-01-30)
 
 
