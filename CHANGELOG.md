@@ -1,5 +1,14 @@
 # Changelog
 
+## [0.4.2](https://github.com/Vonage/vivid-figma-tokens/compare/v0.4.1...v0.4.2) (2024-06-11)
+
+
+### Bug Fixes
+
+* adds permission to release-please github action ([5f77ed7](https://github.com/Vonage/vivid-figma-tokens/commit/5f77ed7a5a14199cf46a5892f23829875801872d))
+* adds permission to release-please github action ([5f77ed7](https://github.com/Vonage/vivid-figma-tokens/commit/5f77ed7a5a14199cf46a5892f23829875801872d))
+* adds permission to release-please github action ([8d1ccbb](https://github.com/Vonage/vivid-figma-tokens/commit/8d1ccbbdfc1dbc1af04e8d1d48f75c95be8e856c))
+
 ## [0.4.1](https://github.com/Vonage/vivid-figma-tokens/compare/v0.4.0...v0.4.1) (2024-06-10)
 
 
