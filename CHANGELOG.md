@@ -1,5 +1,18 @@
 # Changelog
 
+## [1.3.0](https://github.com/Vonage/vivid-figma-tokens/compare/v1.2.0...v1.3.0) (2024-10-15)
+
+
+### Features
+
+* **color:** adds neutral-tint to color palette ([1c08e96](https://github.com/Vonage/vivid-figma-tokens/commit/1c08e96e2886892ea3982a36ce716275de004dda))
+* **color:** adds neutral-tint to color palette ([1c08e96](https://github.com/Vonage/vivid-figma-tokens/commit/1c08e96e2886892ea3982a36ce716275de004dda))
+
+
+### Bug Fixes
+
+* mend file revert to original ([484d7ad](https://github.com/Vonage/vivid-figma-tokens/commit/484d7aded2383fe00762fe949ea54cd05795431e))
+
 ## [0.4.2](https://github.com/Vonage/vivid-figma-tokens/compare/v0.4.1...v0.4.2) (2024-06-11)
 
 
