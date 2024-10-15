@@ -1,6 +1,6 @@
 {
   "name": "@vonage/vivid-figma-tokens",
-  "version": "0.4.2",
+  "version": "0.5.0",
   "description": "tokens synced with the figma file",
   "main": "index.js",
   "scripts": {
