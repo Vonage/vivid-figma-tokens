@@ -1,6 +1,7 @@
 {
-  "settingsInheritedFrom": "vonage-technology/whitesource-config@main",
+  "settingsInheritedFrom": "vonage/whitesource-config@api-platform",
   "remediateSettings": {
+    "timezone": "UTC",
     "enableRenovate": true,
     "extends": [
       "config:base",
