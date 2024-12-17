@@ -287,7 +287,7 @@
             "y": "0",
             "blur": "0",
             "spread": "0",
-            "color": "{purple-grey.50}{alphahex.10}",
+            "color": "{color.purple-grey.50}{alphahex.10}",
             "type": "dropShadow"
           },
           {
@@ -295,7 +295,7 @@
             "y": "1",
             "blur": "0",
             "spread": "0",
-            "color": "{purple-grey.50}{alphahex.10}",
+            "color": "{color.purple-grey.50}{alphahex.10}",
             "type": "dropShadow"
           },
           {
@@ -303,7 +303,7 @@
             "y": "-1",
             "blur": "0",
             "spread": "0",
-            "color": "{purple-grey.50}{alphahex.10}",
+            "color": "{color.purple-grey.50}{alphahex.10}",
             "type": "dropShadow"
           },
           {
@@ -311,7 +311,7 @@
             "y": "0",
             "blur": "0",
             "spread": "0",
-            "color": "{purple-grey.50}{alphahex.10}",
+            "color": "{color.purple-grey.50}{alphahex.10}",
             "type": "dropShadow"
           }
         ],
